@@ -46,5 +46,6 @@ for job in jobsArray {
 // index(_:offsetBy:) -> 주어진 인덱스로부터 지정된 거리에 있는 인덱스를 반환
 var rangeString = "안녕하세요 저는 인덱스 스트링입니다.~"
 let range = rangeString.index(rangeString.startIndex, offsetBy: 5)..<rangeString.endIndex // 범위: 시작지점부터 5 오프셋 떨어진 지점부터 endIndex 까지
+rangeString.removeSubrange(range)
 
-print("--removeSubrange--", rangeString.removeSubrange(range))
+print("--removeSubrange--", rangeString)
