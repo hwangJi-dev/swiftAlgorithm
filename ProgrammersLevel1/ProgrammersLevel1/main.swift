@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(solution([1, 2, 3]))
+print(solution2([1, 2, 3]))
 
