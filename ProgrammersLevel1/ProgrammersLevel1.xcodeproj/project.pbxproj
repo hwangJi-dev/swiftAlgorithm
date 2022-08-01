@@ -10,6 +10,7 @@
 		334149902897E853008BB719 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3341498F2897E853008BB719 /* main.swift */; };
 		334149982897E948008BB719 /* solve.swift in Sources */ = {isa = PBXBuildFile; fileRef = 334149972897E948008BB719 /* solve.swift */; };
 		3341499A2897EA4D008BB719 /* otherSolve.swift in Sources */ = {isa = PBXBuildFile; fileRef = 334149992897EA4D008BB719 /* otherSolve.swift */; };
+		33DFAE3C2898036B0075DD46 /* 신규 아이디 추천.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DFAE3B2898036A0075DD46 /* 신규 아이디 추천.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		3341498F2897E853008BB719 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		334149972897E948008BB719 /* solve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = solve.swift; sourceTree = "<group>"; };
 		334149992897EA4D008BB719 /* otherSolve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otherSolve.swift; sourceTree = "<group>"; };
+		33DFAE3B2898036A0075DD46 /* 신규 아이디 추천.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "신규 아이디 추천.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		3341498E2897E853008BB719 /* ProgrammersLevel1 */ = {
 			isa = PBXGroup;
 			children = (
+				33DFAE3B2898036A0075DD46 /* 신규 아이디 추천.swift */,
 				334149962897E910008BB719 /* 7-NoneNumberPlus */,
 				3341498F2897E853008BB719 /* main.swift */,
 			);
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				33DFAE3C2898036B0075DD46 /* 신규 아이디 추천.swift in Sources */,
 				334149902897E853008BB719 /* main.swift in Sources */,
 				3341499A2897EA4D008BB719 /* otherSolve.swift in Sources */,
 				334149982897E948008BB719 /* solve.swift in Sources */,
