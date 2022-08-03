@@ -30,7 +30,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		3341498C2897E853008BB719 /* ProgrammersLevel1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProgrammersLevel1; sourceTree = BUILT_PRODUCTS_DIR; };
+		3341498C2897E853008BB719 /* Programmers1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers1; sourceTree = BUILT_PRODUCTS_DIR; };
 		3341498F2897E853008BB719 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		334149972897E948008BB719 /* solve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = solve.swift; sourceTree = "<group>"; };
 		334149992897EA4D008BB719 /* otherSolve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otherSolve.swift; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 		334149832897E852008BB719 = {
 			isa = PBXGroup;
 			children = (
-				3341498E2897E853008BB719 /* ProgrammersLevel1 */,
+				3341498E2897E853008BB719 /* Programmers */,
 				3341498D2897E853008BB719 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -63,23 +63,19 @@
 		3341498D2897E853008BB719 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3341498C2897E853008BB719 /* ProgrammersLevel1 */,
+				3341498C2897E853008BB719 /* Programmers1 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3341498E2897E853008BB719 /* ProgrammersLevel1 */ = {
+		3341498E2897E853008BB719 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
-				33DFAE3B2898036A0075DD46 /* 신규 아이디 추천.swift */,
-				334149962897E910008BB719 /* 7-NoneNumberPlus */,
+				33E38C06289ACE9400137EF3 /* level1 */,
+				33E38C07289ACEA600137EF3 /* level2 */,
 				3341498F2897E853008BB719 /* main.swift */,
-				33DFAE3D28980C360075DD46 /* 키패드 누르기.swift */,
-				33DFAE3F289814930075DD46 /* 가운데 글자 가져오기.swift */,
-				33DFAE41289823800075DD46 /* 서울에서 김서방 찾기.swift */,
-				33DFAE43289842B00075DD46 /* 크레인 인형뽑기 게임.swift */,
 			);
-			path = ProgrammersLevel1;
+			path = Programmers;
 			sourceTree = "<group>";
 		};
 		334149962897E910008BB719 /* 7-NoneNumberPlus */ = {
@@ -91,12 +87,32 @@
 			path = "7-NoneNumberPlus";
 			sourceTree = "<group>";
 		};
+		33E38C06289ACE9400137EF3 /* level1 */ = {
+			isa = PBXGroup;
+			children = (
+				33DFAE3B2898036A0075DD46 /* 신규 아이디 추천.swift */,
+				33DFAE3D28980C360075DD46 /* 키패드 누르기.swift */,
+				33DFAE41289823800075DD46 /* 서울에서 김서방 찾기.swift */,
+				33DFAE43289842B00075DD46 /* 크레인 인형뽑기 게임.swift */,
+				33DFAE3F289814930075DD46 /* 가운데 글자 가져오기.swift */,
+				334149962897E910008BB719 /* 7-NoneNumberPlus */,
+			);
+			path = level1;
+			sourceTree = "<group>";
+		};
+		33E38C07289ACEA600137EF3 /* level2 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = level2;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3341498B2897E853008BB719 /* ProgrammersLevel1 */ = {
+		3341498B2897E853008BB719 /* Programmers1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 334149932897E853008BB719 /* Build configuration list for PBXNativeTarget "ProgrammersLevel1" */;
+			buildConfigurationList = 334149932897E853008BB719 /* Build configuration list for PBXNativeTarget "Programmers1" */;
 			buildPhases = (
 				334149882897E853008BB719 /* Sources */,
 				334149892897E853008BB719 /* Frameworks */,
@@ -106,9 +122,9 @@
 			);
 			dependencies = (
 			);
-			name = ProgrammersLevel1;
+			name = Programmers1;
 			productName = ProgrammersLevel1;
-			productReference = 3341498C2897E853008BB719 /* ProgrammersLevel1 */;
+			productReference = 3341498C2897E853008BB719 /* Programmers1 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -126,7 +142,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 334149872897E852008BB719 /* Build configuration list for PBXProject "ProgrammersLevel1" */;
+			buildConfigurationList = 334149872897E852008BB719 /* Build configuration list for PBXProject "Programmers" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -139,7 +155,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3341498B2897E853008BB719 /* ProgrammersLevel1 */,
+				3341498B2897E853008BB719 /* Programmers1 */,
 			);
 		};
 /* End PBXProject section */
@@ -301,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		334149872897E852008BB719 /* Build configuration list for PBXProject "ProgrammersLevel1" */ = {
+		334149872897E852008BB719 /* Build configuration list for PBXProject "Programmers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				334149912897E853008BB719 /* Debug */,
@@ -310,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		334149932897E853008BB719 /* Build configuration list for PBXNativeTarget "ProgrammersLevel1" */ = {
+		334149932897E853008BB719 /* Build configuration list for PBXNativeTarget "Programmers1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				334149942897E853008BB719 /* Debug */,
