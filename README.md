@@ -9,6 +9,7 @@
 | [ 가운데 글자 가져오기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/ProgrammersLevel1/ProgrammersLevel1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.swift) | [ 💬 #7 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/7) |
 | [ 서울에서 김서방 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12919) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/ProgrammersLevel1/ProgrammersLevel1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.swift) | [ 💬 #8 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/8) |
 | [ 크레인 인형뽑기 게임 ](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/ProgrammersLevel1/ProgrammersLevel1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.swift) | [ 💬 #9 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/9) |
+| [ 문자열 압축 ](https://school.programmers.co.kr/learn/courses/30/lessons/60057#) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.swift) | [ 💬 #10 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/10) |
 
 
 <br>
