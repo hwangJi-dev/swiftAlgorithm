@@ -7,4 +7,5 @@
 
 import Foundation
 
-//print(solution2([1, 2, 3]))
+var dict: [Int: String] = [10: "hundred", 20: "twenty"]
+dict[100] = nil
