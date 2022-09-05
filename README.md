@@ -11,6 +11,7 @@
 | [ 크레인 인형뽑기 게임 ](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/ProgrammersLevel1/ProgrammersLevel1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.swift) | [ 💬 #9 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/9) |
 | [ 문자열 압축 ](https://school.programmers.co.kr/learn/courses/30/lessons/60057#) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.swift) | [ 💬 #10 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/10) |
 | [ 타겟 넘버 ](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.swift) | [ 💬 #11 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/11) |
+| [ 성격 유형 검사하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=swift) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.swift) |  |
 
 <br>
 
