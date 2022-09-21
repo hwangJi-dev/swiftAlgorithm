@@ -14,7 +14,7 @@
 | [ 성격 유형 검사하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=swift) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.swift) |  |
 | [ 큰 수 만들기 ](https://school.programmers.co.kr/learn/courses/30/lessons/42883#) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) | [ 💬 #14 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/14) |
 | [ 괄호 변환 ](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.swift) | [ 💬 #15 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/15) |
-| [ 주차 요금 계산 ](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | Level2 | [🎢]([https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/주차%20요금%20계산.swift](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.swift)) | [ 💬 #16 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/16) |
+| [ 주차 요금 계산 ](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.swift) | [ 💬 #16 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/16) |
 
 <br>
 
