@@ -1,4 +1,10 @@
 # 🛠 Algorithm with Swift
+### 💡 Algorithm
+| 개념 | 정리 |
+|:----:|:---:|
+| 이진탐색 | |
+
+<br>
 
 ### 📝 Programmers 
 | 문제 | LEVEL | 풀이 | 정리 |
