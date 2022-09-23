@@ -24,6 +24,7 @@
 | [ 양궁대회 ](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C.swift) | [ 💬 #17 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/17) | `2022.09.22` |
 | [ 순위 검색 ](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.swift) | [ 💬 #18 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/18) | `2022.09.23` |
 | [ 메뉴 리뉴얼 ](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.swift) | [ 💬 #19 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/19) | `2022.09.23` |
+| [ 양과 늑대 ](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EC%96%91%EA%B3%BC%20%EB%8A%91%EB%8C%80.swift) | [ 💬 #21 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/21) | `2022.09.24` |
 
 <br>
 
