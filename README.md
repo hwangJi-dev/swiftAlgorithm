@@ -2,7 +2,7 @@
 ### 💡 Algorithm
 | 개념 | 정리 |
 |:----:|:---:|
-| 이진탐색 | |
+| `이진탐색` | [🍎 이진탐색 정리](https://github.com/hwangJi-dev/swiftAlgorithm/issues/20) |
 
 <br>
 
