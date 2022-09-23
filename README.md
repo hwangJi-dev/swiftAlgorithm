@@ -22,7 +22,7 @@
 | [ 괄호 변환 ](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.swift) | [ 💬 #15 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/15) | `2022.09.21` |
 | [ 주차 요금 계산 ](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.swift) | [ 💬 #16 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/16) | `2022.09.21`|
 | [ 양궁대회 ](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C.swift) | [ 💬 #17 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/17) | `2022.09.22` |
-| [ 순위 검색 ](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | Level2 | [🎢]() | [ 💬 #18 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/18) | `2022.09.23` |
+| [ 순위 검색 ](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.swift) | [ 💬 #18 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/18) | `2022.09.23` |
 | [ 메뉴 리뉴얼 ](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | Level2 | [🎢]() | [ 💬 #19 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/19) | `2022.09.23` |
 
 <br>
