@@ -25,6 +25,7 @@
 | [ 순위 검색 ](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.swift) | [ 💬 #18 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/18) | `2022.09.23` |
 | [ 메뉴 리뉴얼 ](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.swift) | [ 💬 #19 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/19) | `2022.09.23` |
 | [ 양과 늑대 ](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EC%96%91%EA%B3%BC%20%EB%8A%91%EB%8C%80.swift) | [ 💬 #21 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/21) | `2022.09.24` |
+| [ 파괴되지 않은 건물 ](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EA%B1%B4%EB%AC%BC.swift) | [ 💬 #22 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/22) | `2022.09.24` |
 
 <br>
 
