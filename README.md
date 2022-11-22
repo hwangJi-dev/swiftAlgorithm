@@ -29,7 +29,7 @@
 | [ 파괴되지 않은 건물 ](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EA%B1%B4%EB%AC%BC.swift) | [ 💬 #22 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/22) | `2022.09.24` |
 | [ 실패율 ](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.swift) | [ 💬 #23 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/23) | `2022.10.11` |
 | [ 할인 행사 ](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.swift) | [ 💬 #24 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/24) | `2022.10.11` |
-
+| [ 기사단원의 무기 ](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | Level1 | [🍉](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [ 💬 #28 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/28) | `2022.11.22` |
 <br>
 
 ### 📝 백준 
