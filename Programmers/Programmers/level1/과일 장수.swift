@@ -13,7 +13,7 @@ func solution(_ k:Int, _ m:Int, _ score:[Int]) -> Int {
     var score = score.sorted(by: >)
     var sum = 0
     
-    // 2. stride로 배열 순회 (k 개수만큼)
+    // 2. stride로 배열 순회 (m 개수만큼)
     // 3. 해당 값 * m 을 sum에 더하기
     if score.count != m {
         for i in stride(from: m - 1, to: score.count, by: m) {
