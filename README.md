@@ -35,6 +35,7 @@
 | [ 귤 고르기 ](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.swift) | [ 💬 #30 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/30) | `2022.11.25` |
 | [ 위장 ](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%9C%84%EC%9E%A5.swift) | [ 💬 #31 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/31) | `2022.11.26` |
 | [ 여행 경로 ](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EC%97%AC%ED%96%89%20%EA%B2%BD%EB%A1%9C.swift) | [ 💬 #32 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/32) | `2022.11.30` |
+| [ 과일 장수 ](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.swift) | [ 💬 #33 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/33) | `2022.12.06` |
 
 
 <br>
