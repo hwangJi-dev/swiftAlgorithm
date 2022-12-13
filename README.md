@@ -36,7 +36,9 @@
 | [ 위장 ](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%9C%84%EC%9E%A5.swift) | [ 💬 #31 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/31) | `2022.11.26` |
 | [ 여행 경로 ](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EC%97%AC%ED%96%89%20%EA%B2%BD%EB%A1%9C.swift) | [ 💬 #32 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/32) | `2022.11.30` |
 | [ 과일 장수 ](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.swift) | [ 💬 #33 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/33) | `2022.12.06` |
-| [ 명예의 전당 (1) ](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9(1).swift) | [ 💬 #34 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/33) | `2022.12.13` |
+| [ 명예의 전당 (1) ](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9(1).swift) | [ 💬 #34 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/34) | `2022.12.13` |
+| [ 가장 가까운 같은 글자 ](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.swift) | [ 💬 #35 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/35) | `2022.12.13` |
+
 
 
 <br>
