@@ -9,7 +9,7 @@ import Foundation
 
 func solution2(_ s:String) -> [Int] {
     var tupleArr: [[Int]] = []
-    let s = s.trimmingCharacters(in: ["{", "}"]).components(separatedBy: "},{").filter({ $0 != "" })
+    let s = s.trimmingCharacters(in: ["{", "}"]).components(separatedBy: "},{")
     
     for i in s {
         tupleArr.append(i.components(separatedBy: ",").map({ Int($0)! }))
