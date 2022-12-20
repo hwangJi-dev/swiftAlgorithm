@@ -1,10 +1,3 @@
-//
-//  성격 유형 검사하기_re.swift
-//  Programmers1
-//
-//  Created by hwangJi on 2022/12/20.
-//
-
 import Foundation
 
 func solution2(_ survey:[String], _ choices:[Int]) -> String {
@@ -16,7 +9,7 @@ func solution2(_ survey:[String], _ choices:[Int]) -> String {
         let type = String(choices[index] < 4 ? i.first! : i.last!)
         for (idx, j) in personality.enumerated() {
             if j.contains(type) {
-                personalityScore[idx] += type == String(j.first!) ? -calScore(choices[index]) : calScore(choices[index])
+                personalityScore[idx] += type == String(j.first!) ? -abs(choices[index] - 4) : abs(choices[index] - 4)
             }
         }
     }
@@ -28,6 +21,19 @@ func solution2(_ survey:[String], _ choices:[Int]) -> String {
     return result
 }
 
-func calScore(_ score: Int) -> Int {
-    return abs(score - 4)
+// 더 효율적인 방법
+func solution3(_ survey:[String], _ choices:[Int]) -> String {
+    var personalityDict: [String: Int] = ["R": 0, "T": 0, "C": 0, "F": 0, "J": 0, "M": 0, "A": 0, "N": 0]
+    var result: String = ""
+    
+    for (index, i) in survey.enumerated() {
+        personalityDict[choices[index] < 4 ? String(i.first!) : String(i.last!)]! += abs(choices[index] - 4)
+    }
+    
+    result += personalityDict["R"]! >= personalityDict["T"]! ? "R" : "T"
+    result += personalityDict["C"]! >= personalityDict["F"]! ? "C" : "F"
+    result += personalityDict["J"]! >= personalityDict["M"]! ? "J" : "M"
+    result += personalityDict["A"]! >= personalityDict["N"]! ? "A" : "N"
+    
+    return result
 }
