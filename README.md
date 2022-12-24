@@ -42,6 +42,7 @@
 | [ 성격 유형 검사하기 * 2 ](https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=swift) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0_re.swift) | [ 💬 #37 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/37) | `2022.12.20` |
 | [ 신고 결과 받기 * 2 ](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0_Re.swift) | [ 💬 #40 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/40) | `2022.12.23` |
 | [ 점프와 순간 이동 ](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.swift) | [ 💬 #41 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/41) | `2022.12.24` |
+| [ 오픈채팅방 ](https://school.programmers.co.kr/learn/courses/30/lessons/42888?language=swift) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.swift) | [ 💬 #25 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/25) | `2022.12.24` |
 
 
 <br>
