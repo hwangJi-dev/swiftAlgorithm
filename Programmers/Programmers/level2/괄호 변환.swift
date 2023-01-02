@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ p: String) -> String {
+func solution(p: String) -> String {
     var answer = ""
     
     // 1. 입력이 빈 문자열인 경우, 빈 문자열을 반환합니다.

@@ -6,6 +6,4 @@
 //
 
 import Foundation
-
-var dict: [Int: String] = [10: "hundred", 20: "twenty"]
-dict[100] = nil
+print(solution(5, 26))

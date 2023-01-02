@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ N:Int, _ stages:[Int]) -> [Int] {
+func solution(N:Int, stages:[Int]) -> [Int] {
     var stageDict: [Int: Int] = [:]
 
     for i in 1...N {
