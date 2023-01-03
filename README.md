@@ -51,6 +51,8 @@
 | [ 문자열 내 마음대로 정렬하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.swift) | [ 💬 #48 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/48) | `2023.01.03` |
 | [ 문자열 내 p와 y의 개수 ](https://school.programmers.co.kr/learn/courses/30/lessons/12916) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.swift) | [ 💬 #49 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/49) | `2023.01.04` |
 | [ 문자열 내림차순으로 배치하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.swift) | [ 💬 #50 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/50) | `2023.01.04` |
+| [ 문자열 다루기 기본 ](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.swift) | [ 💬 #51 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/51) | `2023.01.04` |
+
 
 
 <br>
