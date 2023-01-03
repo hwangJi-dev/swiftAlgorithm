@@ -47,6 +47,9 @@
 | [ 방문 길이 ](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.swift) | [ 💬 #44 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/44) | `2022.12.31` |
 | [ 2016년 ](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/2016%EB%85%84.swift) | [ 💬 #45 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/45) | `2023.01.02` |
 | [ 나누어 떨어지는 숫자 배열 ](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.swift) | [ 💬 #46 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/46) | `2023.01.03` |
+| [ 두 정수 사이의 합 ](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.swift) | [ 💬 #47 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/47) | `2023.01.03` |
+
+
 
 <br>
 
