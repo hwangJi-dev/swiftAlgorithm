@@ -46,7 +46,7 @@
 | [ 크기가 작은 부분 문자열 ](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.swift) | [ 💬 #43 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/43) | `2022.12.30` |
 | [ 방문 길이 ](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.swift) | [ 💬 #44 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/44) | `2022.12.31` |
 | [ 2016년 ](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/2016%EB%85%84.swift) | [ 💬 #45 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/45) | `2023.01.02` |
-
+| [ 나누어 떨어지는 숫자 배열 ](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.swift) | [ 💬 #46 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/46) | `2023.01.03` |
 
 <br>
 
