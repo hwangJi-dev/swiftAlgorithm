@@ -54,6 +54,7 @@
 | [ 문자열 다루기 기본 ](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.swift) | [ 💬 #51 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/51) | `2023.01.04` |
 | [ 소수 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.swift) | [ 💬 #52 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/52) | `2023.01.04` |
 | [ 숫자 짝꿍 ](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.swift) | [ 💬 #53 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/53) | `2023.01.04` |
+| [ 수박수박수박수박수박수? ](https://school.programmers.co.kr/learn/courses/30/lessons/12922) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.swift) | [ 💬 #54 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/54) | `2023.01.05` |
 
 
 
