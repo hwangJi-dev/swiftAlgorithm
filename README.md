@@ -55,7 +55,7 @@
 | [ 소수 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.swift) | [ 💬 #52 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/52) | `2023.01.04` |
 | [ 숫자 짝꿍 ](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.swift) | [ 💬 #53 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/53) | `2023.01.04` |
 | [ 수박수박수박수박수박수? ](https://school.programmers.co.kr/learn/courses/30/lessons/12922) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.swift) | [ 💬 #54 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/54) | `2023.01.05` |
-
+| [ 로또의 최고 순위와 최저 순위 ](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.swift) | [ 💬 #55 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/55) | `2023.01.05` |
 
 
 <br>
