@@ -8,9 +8,9 @@
 import Foundation
 
 func solution(answers:[Int]) -> [Int] {
-    let supoza1 = Array(String(repeating: "12345", count: answers.count % 5 != 0 ? (answers.count / 5) + 1 : (answers.count / 5))).map({ String($0) })
-    let supoza2 = Array(String(repeating: "21232425", count: answers.count % 8 != 0 ? (answers.count / 8) + 1 : (answers.count / 8))).map({ String($0) })
-    let supoza3 = Array(String(repeating: "3311224455", count: answers.count % 10 != 0 ? (answers.count / 10) + 1 : (answers.count / 10))).map({ String($0) })
+    let supoza1 = Array(String(repeating: "12345", count: (answers.count / 5) + 1)).map({ String($0) })
+    let supoza2 = Array(String(repeating: "21232425", count: (answers.count / 8) + 1)).map({ String($0) })
+    let supoza3 = Array(String(repeating: "3311224455", count: (answers.count / 10) + 1)).map({ String($0) })
     var dict: [Int: Int] = [1: 0, 2: 0, 3: 0]
     
     for (index, answer) in answers.enumerated() {
