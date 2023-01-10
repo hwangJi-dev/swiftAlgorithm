@@ -45,22 +45,12 @@ import Foundation
 func solution(storey: Int) -> Int {
     var storey = storey
     var result = 0
-    var temp = 0
 
     while storey != 0 {
-        if storey <= 10 && storey >= 5 {
-            if storey == 10 {
-                result += 1
-            } else {
-                result += temp >= 5 ? 11 - storey : storey
-            }
-            storey = 0
-        } else if storey % 10 > 5 || (storey % 10 >= 5 && (storey / 10) % 10 >= 5) {
-            temp = storey % 10
+        if storey % 10 > 5 || (storey % 10 == 5 && (storey / 10) % 10 >= 5) {
             result += 10 - (storey % 10)
             storey = (storey / 10) + 1
         } else {
-            temp = storey % 10
             result += storey % 10
             storey = storey / 10
         }
