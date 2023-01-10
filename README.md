@@ -59,9 +59,7 @@
 | [ 시저 암호 ](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.swift) | [ 💬 #56 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/56) | `2023.01.05` |
 | [ 모의고사 ](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.swift) | [ 💬 #57 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/57) | `2023.01.05` |
 | [ 비밀지도 ](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.swift) | [ 💬 #58 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/58) | `2023.01.06` |
-
-
-
+| [ 마법의 엘리베이터 ](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%A7%88%EB%B2%95%EC%9D%98%20%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0.swift) | [ 💬 #59 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/59) | `2023.01.08` |
 
 
 <br>
