@@ -63,7 +63,7 @@
 | [ 문자열을 정수로 바꾸기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.swift) | [ 💬 #60 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/60) | `2023.01.10` |
 | [ 약수의 합 ](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.swift) | [ 💬 #61 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/61) | `2023.01.10` |
 | [ 이상한 문자 만들기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) | [ 💬 #62 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/62) | `2023.01.10` |
-
+| [ 자릿수 더하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.swift) | [ 💬 #63 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/63) | `2023.01.10` |
 
 
 <br>
