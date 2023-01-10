@@ -7,41 +7,6 @@
 
 import Foundation
 
-//func solution(storey:Int) -> Int {
-//    var cipher = String(storey).count - 1
-//    var temp = storey
-//    var arr: [Int] = []
-//    var result = 0
-//
-//    while cipher >= 0 {
-//        arr.append(temp / Int(pow(10.0, Double(cipher))))
-//        temp = temp % Int(pow(10.0, Double(cipher)))
-//        cipher -= 1
-//    }
-//
-//    cipher = 0
-//    arr = arr.reversed()
-//
-//    for (index, _) in arr.enumerated() {
-//        if index < arr.count - 1 && arr[index] == 5 && arr[index + 1] <= 5 {
-//            result += arr[index]
-//        } else if arr[index] >= 5 {
-//            result += 10 - arr[index]
-//            arr[index] = 0
-//            if index < arr.count - 1 {
-//                arr[index + 1] += 1
-//            } else {
-//                result += 1
-//            }
-//        } else {
-//            result += arr[index]
-//        }
-//    }
-//
-//    return result
-//}
-
-
 func solution(storey: Int) -> Int {
     var storey = storey
     var result = 0
