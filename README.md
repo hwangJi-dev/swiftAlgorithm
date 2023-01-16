@@ -70,6 +70,7 @@
 | [ 개인정보 수집 유효기간 ](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.swift) | [ 💬 #67 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/67) | `2023.01.11` |
 | [ 옹알이(2) ](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%98%B9%EC%95%8C%EC%9D%B4(2).swift) | [ 💬 #68 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/68) | `2023.01.12` |
 | [ 다트 게임 ](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.swift) | [ 💬 #69 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/69) | `2023.01.16` |
+| [ 햄버거 만들기 ](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) | [ 💬 #70 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/70) | `2023.01.17` |
 
 
 <br>
