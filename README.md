@@ -68,6 +68,7 @@
 | [ 문자열 나누기 ](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.swift) | [ 💬 #65 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/65) | `2023.01.10` |
 | [ 푸드 파이트 대회 ](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.swift) | [ 💬 #66 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/66) | `2023.01.10` |
 | [ 개인정보 수집 유효기간 ](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.swift) | [ 💬 #67 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/67) | `2023.01.11` |
+| [ 옹알이(2) ](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%98%B9%EC%95%8C%EC%9D%B4(2).swift) | [ 💬 #68 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/68) | `2023.01.12` |
 
 
 <br>
