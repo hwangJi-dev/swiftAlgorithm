@@ -9,36 +9,28 @@ import Foundation
 
 @available(macOS 13.0, *)
 func solution(dartResult:String) -> Int {
-    let dict = ["S": 1, "D": 2, "T": 3, "*": 2, "#": -1]
-    var str: [String] = Array(dartResult).map({ String($0) })
-    var dart = dartResult.filter{ !$0.isNumber }.map{ String($0) }
+    let dict = ["S": 1, "D": 2, "T": 3]
+    let str: [String] = Array(dartResult).map({ String($0) })
     var num: [Int] = []
     var cutIndex = 0
     
     for (index, i) in dartResult.enumerated() {
-        if dart.contains(String(i)) {
-            let n = str[cutIndex..<index].joined()
-            if n != "" {
-                num.append(Int(n)!)
+        switch i {
+        case "S", "D", "T":
+            num.append(Int(str[cutIndex..<index].joined()) ?? 0)
+            num[num.count - 1] = Int(pow(Double(num[num.count - 1]), Double(dict[String(i)]!)))
+            cutIndex = index + 1
+        case "*":
+            num[num.count - 1] *= 2
+            if num.count - 2 >= 0 {
+                num[num.count - 2] *= 2
             }
             cutIndex = index + 1
-            
-            if i == "S" {
-                num[num.count - 1] = Int(pow(Double(num[num.count - 1]), 1))
-            } else if i == "D" {
-                num[num.count - 1] = Int(pow(Double(num[num.count - 1]), 2))
-            } else if i == "T" {
-                num[num.count - 1] = Int(pow(Double(num[num.count - 1]), 3))
-            } else if i == "*" {
-                if num.count - 2 >= 0 {
-                    num[num.count - 1] *= 2
-                    num[num.count - 2] *= 2
-                } else {
-                    num[num.count - 1] *= 2
-                }
-            } else {
-                num[num.count - 1] *= -1
-            }
+        case "#":
+            num[num.count - 1] *= -1
+            cutIndex = index + 1
+        default:
+            break
         }
     }
 
