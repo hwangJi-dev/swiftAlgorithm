@@ -75,6 +75,8 @@
 | [ 나머지가 1이 되는 수 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.swift) | [ 💬 #72 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/72) | `2023.01.18` |
 | [ 정수 내림차순으로 배치하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12933) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.swift) | [ 💬 #73 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/73) | `2023.01.18` |
 | [ 제일 작은 수 제거하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12935) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.swift) | [ 💬 #74 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/74) | `2023.01.19` |
+| [ 정수 제곱근 판별 ](https://school.programmers.co.kr/learn/courses/30/lessons/12934) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.swift) | [ 💬 #75 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/75) | `2023.01.19` |
+
 
 
 <br>
