@@ -78,6 +78,8 @@
 | [ 정수 제곱근 판별 ](https://school.programmers.co.kr/learn/courses/30/lessons/12934) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.swift) | [ 💬 #75 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/75) | `2023.01.19` |
 | [ 짝수와 홀수 ](https://school.programmers.co.kr/learn/courses/30/lessons/12937) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.swift) | [ 💬 #76 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/76) | `2023.01.19` |
 | [ 평균 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.swift) | [ 💬 #77 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/77) | `2023.01.19` |
+| [ 핸드폰 번호  ](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.swift) | [ 💬 #78 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/78) | `2023.01.19` |
+
 
 
 <br>
