@@ -73,7 +73,7 @@
 | [ 햄버거 만들기 ](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) | [ 💬 #70 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/70) | `2023.01.17` |
 | [ 프렌즈4블록 ](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.swift) | [ 💬 #71 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/71) | `2023.01.18` |
 | [ 나머지가 1이 되는 수 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.swift) | [ 💬 #72 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/72) | `2023.01.18` |
-
+| [ 정수 내림차순으로 배치하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12933) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.swift) | [ 💬 #73 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/73) | `2023.01.18` |
 
 
 <br>
