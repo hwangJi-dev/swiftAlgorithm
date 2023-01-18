@@ -77,6 +77,7 @@
 | [ 제일 작은 수 제거하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12935) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.swift) | [ 💬 #74 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/74) | `2023.01.19` |
 | [ 정수 제곱근 판별 ](https://school.programmers.co.kr/learn/courses/30/lessons/12934) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.swift) | [ 💬 #75 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/75) | `2023.01.19` |
 | [ 짝수와 홀수 ](https://school.programmers.co.kr/learn/courses/30/lessons/12937) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.swift) | [ 💬 #76 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/76) | `2023.01.19` |
+| [ 평균 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.swift) | [ 💬 #77 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/77) | `2023.01.19` |
 
 
 <br>
