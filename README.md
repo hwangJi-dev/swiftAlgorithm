@@ -71,6 +71,7 @@
 | [ 옹알이(2) ](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%98%B9%EC%95%8C%EC%9D%B4(2).swift) | [ 💬 #68 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/68) | `2023.01.12` |
 | [ 다트 게임 ](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.swift) | [ 💬 #69 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/69) | `2023.01.16` |
 | [ 햄버거 만들기 ](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) | [ 💬 #70 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/70) | `2023.01.17` |
+| [ 프렌즈4블록 ](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.swift) | [ 💬 #71 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/71) | `2023.01.18` |
 
 
 <br>
