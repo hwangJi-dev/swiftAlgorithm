@@ -82,6 +82,8 @@
 | [ x만큼 간격이 있는 n개의 숫자 ](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.swift) | [ 💬 #79 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/79) | `2023.01.19` |
 | [ 음양 더하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.swift) | [ 💬 #81 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/81) | `2023.01.19` |
 | [ 콜라츠 추측 ](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.swift) | [ 💬 #82 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/82) | `2023.01.20` |
+| [ 하샤드 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/12947) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.swift) | [ 💬 #83 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/83) | `2023.01.20` |
+
 
 
 <br>
