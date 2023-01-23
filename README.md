@@ -84,6 +84,7 @@
 | [ 콜라츠 추측 ](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.swift) | [ 💬 #82 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/82) | `2023.01.20` |
 | [ 하샤드 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/12947) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.swift) | [ 💬 #83 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/83) | `2023.01.20` |
 | [ 부족한 금액 계산하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.swift) | [ 💬 #84 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/84) | `2023.01.21` |
+| [ 내적 ](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%82%B4%EC%A0%81.swift) | [ 💬 #87 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/87) | `2023.01.23` |
 
 
 <br>
