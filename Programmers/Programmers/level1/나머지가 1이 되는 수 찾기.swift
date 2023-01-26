@@ -10,8 +10,8 @@ import Foundation
 func solution(n4: Int) -> Int {
     var x = 0
     
-    for i in 2...n - 1 {
-        if n % i == 1 {
+    for i in 2...n4 - 1 {
+        if n4 % i == 1 {
             x = i
             break
         }
