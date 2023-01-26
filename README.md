@@ -87,6 +87,7 @@
 | [ 내적 ](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%82%B4%EC%A0%81.swift) | [ 💬 #87 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/87) | `2023.01.23` |
 | [ 행렬의 덧셈 ](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.swift) | [ 💬 #88 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/88) | `2023.01.24` |
 | [ 전력망을 둘로 나누기 ](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0.swift) | [ 💬 #86 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/86) | `2023.01.25` |
+| [ 이모티콘 할인행사 ](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98%20%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.swift) | [ 💬 #80 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/80) | `2023.01.26` |
 
 
 <br>
