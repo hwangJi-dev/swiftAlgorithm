@@ -94,6 +94,8 @@
 | [ 약수의 개수와 덧셈 ](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.swift) | [ 💬 #91 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/91) | `2023.01.26` |
 | [ 3진법 뒤집기 ](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.swift) | [ 💬 #92 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/92) | `2023.01.26` |
 | [ K번째 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/K%EB%B2%88%EC%A7%B8%20%EC%88%98.swift) | [ 💬 #93 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/93) | `2023.01.26` |
+| [ 두 개 뽑아서 더하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.swift) | [ 💬 #94 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/94) | `2023.01.27` |
+
 
 
 <br>
