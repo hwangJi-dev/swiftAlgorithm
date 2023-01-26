@@ -91,6 +91,8 @@
 | [ 최대공약수와 최소공배수 ](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.swift) | [ 💬 #85 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/85) | `2023.01.26` |
 | [ 예산 ](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%98%88%EC%82%B0.swift) | [ 💬 #89 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/89) | `2023.01.26` |
 | [ 직사각형 별찍기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.swift) | [ 💬 #90 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/90) | `2023.01.26` |
+| [ 약수의 개수와 덧셈 ](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.swift) | [ 💬 #91 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/91) | `2023.01.26` |
+
 
 
 <br>
