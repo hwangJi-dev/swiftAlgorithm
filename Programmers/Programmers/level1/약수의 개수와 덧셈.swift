@@ -9,6 +9,7 @@ import Foundation
 
 func solution(left:Int, right:Int) -> Int {
     var result = 0
+    guard left != 0 && right != 0 else { return 0 }
     for i in left...right {
         result = getDivisor(i) ? result + i : result - i
     }
