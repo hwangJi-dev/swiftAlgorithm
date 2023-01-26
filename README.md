@@ -90,6 +90,8 @@
 | [ 이모티콘 할인행사 ](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98%20%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.swift) | [ 💬 #80 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/80) | `2023.01.26` |
 | [ 최대공약수와 최소공배수 ](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.swift) | [ 💬 #85 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/85) | `2023.01.26` |
 | [ 예산 ](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%98%88%EC%82%B0.swift) | [ 💬 #89 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/89) | `2023.01.26` |
+| [ 직사각형 별찍기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.swift) | [ 💬 #90 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/90) | `2023.01.26` |
+
 
 <br>
 
