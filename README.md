@@ -98,7 +98,7 @@
 | [ 콜라 문제 ](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.swift) | [ 💬 #95 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/95) | `2023.01.27` |
 | [ 최소직사각형 ](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.swift) | [ 💬 #96 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/96) | `2023.01.27` |
 | [ 삼총사 ](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%82%BC%EC%B4%9D%EC%82%AC.swift) | [ 💬 #97 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/97) | `2023.01.27` |
-| [ 무인도 여행 ](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%AC%B4%EC%9D%B8%EB%8F%84%20%EC%97%AC%ED%96%89.swift) | [ 💬 #98 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/98) | `2023.01.28` |
+| [ 무인도 여행 ](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%AC%B4%EC%9D%B8%EB%8F%84%20%EC%97%AC%ED%96%89.swift) | [ 💬 #98 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/98) | `2023.01.28` |
 
 
 <br>
