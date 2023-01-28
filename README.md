@@ -99,6 +99,7 @@
 | [ 최소직사각형 ](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.swift) | [ 💬 #96 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/96) | `2023.01.27` |
 | [ 삼총사 ](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%82%BC%EC%B4%9D%EC%82%AC.swift) | [ 💬 #97 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/97) | `2023.01.27` |
 | [ 무인도 여행 ](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%AC%B4%EC%9D%B8%EB%8F%84%20%EC%97%AC%ED%96%89.swift) | [ 💬 #98 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/98) | `2023.01.28` |
+| [ n진수 게임 ](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.swift) | [ 💬 #99 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/99) | `2023.01.28` |
 
 
 <br>
