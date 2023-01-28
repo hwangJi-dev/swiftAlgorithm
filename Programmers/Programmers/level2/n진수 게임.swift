@@ -9,7 +9,7 @@ import Foundation
 
 func solution(n:Int, t:Int, m:Int, p:Int) -> String {
     var game: [String] = []
-    print(String(16, radix: 16))
+
     for i in 0..<(m * t) {
         game.append(contentsOf: Array(String(i, radix: n).uppercased()).map({ String($0) }))
     }
