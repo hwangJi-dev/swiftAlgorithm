@@ -101,6 +101,7 @@
 | [ 무인도 여행 ](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%AC%B4%EC%9D%B8%EB%8F%84%20%EC%97%AC%ED%96%89.swift) | [ 💬 #98 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/98) | `2023.01.28` |
 | [ n진수 게임 ](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.swift) | [ 💬 #99 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/99) | `2023.01.28` |
 | [ 숫자 변환하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%88%AB%EC%9E%90%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.swift) | [ 💬 #100 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/100) | `2023.01.31` |
+| [ 뒤에 있는 큰 수 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.swift) | [ 💬 #101 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/100) | `2023.02.01` |
 
 
 <br>
