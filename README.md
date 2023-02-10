@@ -106,6 +106,8 @@
 | [ 호텔 대실 ](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.swift) | [ 💬 #104 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/104) | `2023.02.03` |
 | [ 둘만의 암호 ](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8.swift) | [ 💬 #105 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/105) | `2023.02.05` |
 | [ 후보키 ](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%9B%84%EB%B3%B4%ED%82%A4.swift) | [ 💬 #103 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/103) | `2023.02.07` |
+| [ 땅따먹기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.swift) | [ 💬 #104 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/104) | `2023.02.09` |
+
 
 
 <br>
