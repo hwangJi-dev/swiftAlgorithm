@@ -110,6 +110,8 @@
 | [ 행렬 테두리 회전하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.swift) | [ 💬 #107 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/107) | `2023.02.10` |
 | [ 영어 끝말잇기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.swift) | [ 💬 #108 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/108) | `2023.02.14` |
 | [ 다음 큰 숫자 ](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.swift) | [ 💬 #109 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/109) | `2023.02.14` |
+| [ 최솟값 만들기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) | [ 💬 #110 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/110) | `2023.02.14` |
+
 
 
 <br>
