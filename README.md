@@ -122,8 +122,8 @@
 <br>
 
 ### 📝 Softeer 
-| 문제번호 | LEVEL | 정리 |
-|:----------|:----------:|:----:|
+| 문제 | LEVEL | 풀이 | 정리 | 풀이 일자 |
+|:----------|:----------:|:----:|:----:|:----:|
 | [ 전광판 ](https://softeer.ai/practice/info.do?idx=1&eid=624) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Softeer/%EC%A0%84%EA%B4%91%ED%8C%90.swift) | [ 💬 #112 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/112) | `2023.02.18` |
 
 
