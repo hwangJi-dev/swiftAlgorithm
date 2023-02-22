@@ -10,19 +10,19 @@ import Foundation
 func solution(skill:String, skill_trees:[String]) -> Int {
     var sum = 0
     
-    for i in skill_trees {
-        var skill = Array(skill).map{ String($0) }
-        var target = skill.removeFirst()
+    for tree in skill_trees {
+        var preSkillset = Array(skill).map{ String($0) }
+        var targetSkill = preSkillset.removeFirst()
         var available = true
         
-        for s in i {
-            if skill.contains(String(s)) {
+        for currentSkill in tree {
+            if preSkillset.contains(String(currentSkill)) {
                 available = false
                 break
             }
             
-            if String(s) == target && skill.count > 0 {
-                target = skill.removeFirst()
+            if String(currentSkill) == targetSkill && preSkillset.count > 0 {
+                targetSkill = preSkillset.removeFirst()
             }
         }
         
