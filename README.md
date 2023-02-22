@@ -113,6 +113,8 @@
 | [ 최솟값 만들기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) | [ 💬 #110 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/110) | `2023.02.14` |
 | [ [3차] 파일명 정렬 ](https://school.programmers.co.kr/learn/courses/30/lessons/17686#) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) | [ 💬 #111 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/111) | `2023.02.21` |
 | [ 피로도 ](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%94%BC%EB%A1%9C%EB%8F%84.swift) | [ 💬 #113 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/113) | `2023.02.21` |
+| [ [1차] 뉴스 클러스터링 ](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.swift) | [ 💬 #114 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/114) | `2023.02.22` |
+
 
 <br>
 
