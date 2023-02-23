@@ -114,6 +114,8 @@
 | [ [3차] 파일명 정렬 ](https://school.programmers.co.kr/learn/courses/30/lessons/17686#) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) | [ 💬 #111 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/111) | `2023.02.21` |
 | [ 피로도 ](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%94%BC%EB%A1%9C%EB%8F%84.swift) | [ 💬 #113 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/113) | `2023.02.21` |
 | [ [1차] 뉴스 클러스터링 ](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.swift) | [ 💬 #114 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/114) | `2023.02.22` |
+| [ 스킬트리 ](https://school.programmers.co.kr/learn/courses/30/lessons/49993#fn1) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.swift) | [ 💬 #115 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/115) | `2023.02.22` |
+
 
 
 <br>
