@@ -119,6 +119,7 @@
 | [ 대충 만든 자판 ](https://school.programmers.co.kr/learn/courses/30/lessons/160586) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90.swift) | [ 💬 #117 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/117) | `2023.02.24` |
 | [ 카드 뭉치 ](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98.swift) | [ 💬 #120 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/120) | `2023.02.27` |
 | [ [3차] 방금그곡 ](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%5B3%EC%B0%A8%5D%20%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.swift) | [ 💬 #118 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/118) | `2023.02.28` |
+| [ 바탕화면 정리 ](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%20%EC%A0%95%EB%A6%AC.swift) | [ 💬 #122 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/122) | `2023.03.05` |
 
 <br>
 
