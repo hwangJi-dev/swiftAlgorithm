@@ -12,7 +12,7 @@ func solution(board:[String]) -> Int {
     var oBoard: [Int] = []
     var xBoard: [Int] = []
     var isOXEnd = (false, false)
-    let available = [[0,1,2], [3,4,5], [6,7,8], [0,4,8], [2,4,6], [0,3,6], [1,4,7], [2,5,8]]
+    let bingoArr = [[0,1,2], [3,4,5], [6,7,8], [0,4,8], [2,4,6], [0,3,6], [1,4,7], [2,5,8]]
     
     for (bdx, b) in board.enumerated() {
         for (tdx, t) in b.enumerated() {
@@ -25,7 +25,7 @@ func solution(board:[String]) -> Int {
             }
             
             if oBoard.count >= 3 {
-                for a in available {
+                for a in bingoArr {
                     if oBoard.count - oBoard.filter({ !a.contains($0) }).count == 3 {
                         isOXEnd.0 = true
                         break
@@ -34,7 +34,7 @@ func solution(board:[String]) -> Int {
             }
             
             if xBoard.count >= 3 {
-                for a in available {
+                for a in bingoArr {
                     if xBoard.count - xBoard.filter({ !a.contains($0) }).count == 3 {
                         isOXEnd.1 = true
                         break
