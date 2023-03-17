@@ -122,6 +122,8 @@
 | [ 바탕화면 정리 ](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%20%EC%A0%95%EB%A6%AC.swift) | [ 💬 #122 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/122) | `2023.03.05` |
 | [ 혼자서 하는 틱택토 ](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%98%BC%EC%9E%90%EC%84%9C%20%ED%95%98%EB%8A%94%20%ED%8B%B1%ED%83%9D%ED%86%A0.swift) | [ 💬 #119 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/119) | `2023.03.07` |
 | [ [1차] 캐시 ](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.swift) | [ 💬 #121 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/121) | `2023.03.07` |
+| [ 피보나치 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/12945#) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.swift) | [ 💬 #127 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/127) | `2023.03.17` |
+
 
 <br>
 
