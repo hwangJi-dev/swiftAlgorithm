@@ -19,11 +19,11 @@ func solution(queue1:[Int], queue2:[Int]) -> Int {
         if queue1sum >= queue2sum {
             queue1sum -= queue[pointer.0]
             queue2sum += queue[pointer.0]
-            pointer.0 += pointer.0 + 1 > queue.count - 1 ? 0 : 1
+            pointer.0 = pointer.0 + 1 > queue.count - 1 ? 0 : pointer.0 + 1
         } else {
             queue1sum += queue[pointer.1]
             queue2sum -= queue[pointer.1]
-            pointer.1 += pointer.1 + 1 > queue.count - 1 ? 0 : 1
+            pointer.1 = pointer.1 + 1 > queue.count - 1 ? 0 : pointer.1 + 1
         }
         
         ans += 1
