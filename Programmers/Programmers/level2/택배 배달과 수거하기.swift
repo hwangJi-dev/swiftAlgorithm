@@ -23,10 +23,13 @@ func solution(cap:Int, n:Int, deliveries:[Int], pickups:[Int]) -> Int64 {
     }
     
     while !deliverStack.isEmpty || !pickupStack.isEmpty {
-        if deliverStack.last?.0 ?? 0 > pickupStack.last?.0 ?? 0 {
-            distance += ((deliverStack.last?.0 ?? 0) + 1) * 2
+        let deliverLastIdx = deliverStack.last?.0 ?? 0
+        let pickupLastIdx = pickupStack.last?.0 ?? 0
+        
+        if deliverLastIdx > pickupLastIdx {
+            distance += (deliverLastIdx + 1) * 2
         } else {
-            distance += ((pickupStack.last?.0 ?? 0) + 1) * 2
+            distance += (pickupLastIdx + 1) * 2
         }
         
         var deliverBox = cap
