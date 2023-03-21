@@ -137,7 +137,7 @@
 <br>
 
 ### 📝 Codility 
-| 문제번호 | LEVEL | 풀이 | 정리 | 풀이 일자 |
+| 문제 | LEVEL | 풀이 | 정리 | 풀이 일자 |
 |:----------|:----------:|:----:|:----:|:----:|
 | [ BinaryGap ](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | Iteration | [🔁](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Iterations/BinaryGap.swift) | [ 💬 #128 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/128) | `2023.03.22` |
 
