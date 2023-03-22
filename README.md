@@ -144,7 +144,7 @@
 | [ OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | Arrays | Easy | [🪢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Array/OddOccurrencesInArray.swift) | [ 💬 #130 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/130) | `2023.03.22` |
 | [ FrogJmp ](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) | Time Complexity | Easy | [⏱️](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Time%20Complexity/FrogJmp.swift) | [ 💬 #131 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/131) | `2023.03.22` |
 | [ PermMissingElem ](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) | Time Complexity | Easy | [⏱️](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Time%20Complexity/PermMissingElem.swift) | [ 💬 #132 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/132) | `2023.03.22` |
-
+| [ TapeEquilibrium ](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | Time Complexity | Easy | [⏱️](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Time%20Complexity/TapeEquilibrium.swift) | [ 💬 #133 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/133) | `2023.03.22` |
 
 <br>
 
