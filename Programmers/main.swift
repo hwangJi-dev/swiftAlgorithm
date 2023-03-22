@@ -7,8 +7,8 @@
 
 import Foundation
 if #available(macOS 13.0, *) {
-    var pass = [3, 6, 4, 1]
-    print(solution2(A: &pass))
+    var pass = [0, 0, 0, 0]
+    print(solution3(A: &pass))
 } else {
     // Fallback on earlier versions
 }
