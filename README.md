@@ -147,6 +147,7 @@
 | [ TapeEquilibrium ](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | Time Complexity | Easy | [⏱️](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Time%20Complexity/TapeEquilibrium.swift) | [ 💬 #133 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/133) | `2023.03.22` |
 | [ FrogRiverOne ](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | Counting Elements | Easy | [🧮](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Counting%20Elements/FrogRiverOne.swift) | [ 💬 #134 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/134) | `2023.03.22` |
 | [ PermCheck ](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) | Counting Elements | Easy | [🧮](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Counting%20Elements/PermCheck.swift) | [ 💬 #135 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/135) | `2023.03.22` |
+| [ MaxCounters ](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | Counting Elements | Medium | [🧮](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Counting%20Elements/MaxCounters.swift) | [ 💬 #136 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/136) | `2023.03.22` |
 
 <br>
 
