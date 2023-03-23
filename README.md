@@ -130,12 +130,6 @@
 
 <br>
 
-### 📝 백준 
-| 문제번호 | LEVEL | 풀이 | 정리 | 풀이 일자 |
-|:----------|:----------:|:----:|:----:|:----:|
-
-<br>
-
 ### 📝 Codility 
 | 문제 | LESSONS | LEVEL | 풀이 | 정리 | 풀이 일자 |
 |:----------|:----------:|:----:|:----:|:----:|:----:|
@@ -156,6 +150,12 @@
 | [ Distinct ](https://app.codility.com/programmers/lessons/6-sorting/distinct/) | Sorting | Easy | [🔢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Sorting/Distinct.swift) | [ 💬 #142 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/142) | `2023.03.24` |
 | [ MaxProductOfThree ](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) | Sorting | Easy | [🔢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Sorting/MaxProductOfThree.swift) | [ 💬 #143 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/143) | `2023.03.24` |
 | [ Triangle ](https://app.codility.com/programmers/lessons/6-sorting/triangle/) | Sorting | Easy | [🔢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Sorting/Triangle.swift) | [ 💬 #144 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/144) | `2023.03.24` |
+
+<br>
+
+### 📝 백준 
+| 문제번호 | LEVEL | 풀이 | 정리 | 풀이 일자 |
+|:----------|:----------:|:----:|:----:|:----:|
 
 
 <br>
