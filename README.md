@@ -151,6 +151,7 @@
 | [ MissingInteger ](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) | Counting Elements | Medium | [🧮](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Counting%20Elements/MissingInteger.swift) | [ 💬 #137 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/137) | `2023.03.23` |
 | [ PassingCars ](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) | Prefix Sums | Easy | [➕](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Prefix%20Sums/PassingCars.swift) | [ 💬 #138 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/138) | `2023.03.23` |
 | [ CountDiv ](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/) | Prefix Sums | Medium | [➕](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Prefix%20Sums/CountDiv.swift) | [ 💬 #139 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/139) | `2023.03.23` |
+| [ GenomicRangeQuery ](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) | Prefix Sums | Medium | [➕](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Prefix%20Sums/GenomicRangeQuery.swift) | [ 💬 #140 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/140) | `2023.03.23` |
 
 
 <br>
