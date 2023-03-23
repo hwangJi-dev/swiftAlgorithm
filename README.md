@@ -154,6 +154,7 @@
 | [ GenomicRangeQuery ](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) | Prefix Sums | Medium | [➕](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Prefix%20Sums/GenomicRangeQuery.swift) | [ 💬 #140 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/140) | `2023.03.23` |
 | [ MinAvgTwoSlice ](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/) | Prefix Sums | Medium | [➕](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Prefix%20Sums/MinAvgTwoSlice.swift) | [ 💬 #141 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/141) | `2023.03.23` |
 | [ Distinct ](https://app.codility.com/programmers/lessons/6-sorting/distinct/) | Sorting | Easy | [🔢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Sorting/Distinct.swift) | [ 💬 #142 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/142) | `2023.03.24` |
+| [ MaxProductOfThree ](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) | Sorting | Easy | [🔢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Sorting/MaxProductOfThree.swift) | [ 💬 #143 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/143) | `2023.03.24` |
 
 
 <br>
