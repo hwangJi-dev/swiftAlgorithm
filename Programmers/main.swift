@@ -7,10 +7,8 @@
 
 import Foundation
 if #available(macOS 13.0, *) {
-    var s = "CAGCCTA"
-    var p = [2, 5, 0]
-    var q = [4, 5, 6]
-    print(solution(&s, &p, &q))
+    var a = [4, 2]
+    print(solution4(A: &a))
 } else {
     // Fallback on earlier versions
 }
