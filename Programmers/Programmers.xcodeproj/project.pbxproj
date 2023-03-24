@@ -113,6 +113,7 @@
 		33AFF4E029CDAEEA00D61BD4 /* Nesting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4DF29CDAEEA00D61BD4 /* Nesting.swift */; };
 		33AFF4E229CDB2FF00D61BD4 /* StoneWall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4E129CDB2FF00D61BD4 /* StoneWall.swift */; };
 		33AFF4E529CE057100D61BD4 /* MaxNonoverlappingSegments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4E429CE057100D61BD4 /* MaxNonoverlappingSegments.swift */; };
+		33AFF4E729CE102000D61BD4 /* TieRopes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4E629CE102000D61BD4 /* TieRopes.swift */; };
 		33B2E7D829A3C51D00759849 /* 파일명 정렬.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B2E7D729A3C51D00759849 /* 파일명 정렬.swift */; };
 		33B39B2B289C4C2D0065B484 /* 타겟 넘버.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B39B2A289C4C2D0065B484 /* 타겟 넘버.swift */; };
 		33B3F5B4296474B7000C7D6F /* 두 정수 사이의 합.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B3F5B3296474B7000C7D6F /* 두 정수 사이의 합.swift */; };
@@ -268,6 +269,7 @@
 		33AFF4DF29CDAEEA00D61BD4 /* Nesting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nesting.swift; sourceTree = "<group>"; };
 		33AFF4E129CDB2FF00D61BD4 /* StoneWall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoneWall.swift; sourceTree = "<group>"; };
 		33AFF4E429CE057100D61BD4 /* MaxNonoverlappingSegments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxNonoverlappingSegments.swift; sourceTree = "<group>"; };
+		33AFF4E629CE102000D61BD4 /* TieRopes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TieRopes.swift; sourceTree = "<group>"; };
 		33B2E7D729A3C51D00759849 /* 파일명 정렬.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "파일명 정렬.swift"; sourceTree = "<group>"; };
 		33B39B2A289C4C2D0065B484 /* 타겟 넘버.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "타겟 넘버.swift"; sourceTree = "<group>"; };
 		33B3F5B3296474B7000C7D6F /* 두 정수 사이의 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두 정수 사이의 합.swift"; sourceTree = "<group>"; };
@@ -453,6 +455,7 @@
 			isa = PBXGroup;
 			children = (
 				33AFF4E429CE057100D61BD4 /* MaxNonoverlappingSegments.swift */,
+				33AFF4E629CE102000D61BD4 /* TieRopes.swift */,
 			);
 			path = "Greedy Algorithms";
 			sourceTree = "<group>";
@@ -766,6 +769,7 @@
 				3359057329CADE2A009BD501 /* FrogJmp.swift in Sources */,
 				33E9C7202970349100479C1B /* 옹알이(2).swift in Sources */,
 				334149982897E948008BB719 /* solve.swift in Sources */,
+				33AFF4E729CE102000D61BD4 /* TieRopes.swift in Sources */,
 				3359E1012982ADE40023A382 /* K번째 수.swift in Sources */,
 				3357F0C429785C20008D6C10 /* 평균 구하기.swift in Sources */,
 				33AFF4D929CCDC4700D61BD4 /* NumberOfDiscIntersections.swift in Sources */,

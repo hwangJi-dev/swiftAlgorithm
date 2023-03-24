@@ -7,9 +7,9 @@
 
 import Foundation
 if #available(macOS 13.0, *) {
-    var a: [Int] = []
-    var b: [Int] = []
-    print(solution1(A: &a, B: &b))
+    var a = 4
+    var b: [Int] = [1, 2, 3, 4, 1, 1, 3]
+    print(solution(K: a, A: &b))
 } else {
     // Fallback on earlier versions
 }
