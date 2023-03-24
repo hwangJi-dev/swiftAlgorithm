@@ -107,6 +107,9 @@
 		33AFF4D329CCBD9F00D61BD4 /* Distinct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4D229CCBD9F00D61BD4 /* Distinct.swift */; };
 		33AFF4D529CCBFE500D61BD4 /* MaxProductOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4D429CCBFE500D61BD4 /* MaxProductOfThree.swift */; };
 		33AFF4D729CCC3FC00D61BD4 /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4D629CCC3FC00D61BD4 /* Triangle.swift */; };
+		33AFF4D929CCDC4700D61BD4 /* NumberOfDiscIntersections.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4D829CCDC4700D61BD4 /* NumberOfDiscIntersections.swift */; };
+		33AFF4DC29CCDEC600D61BD4 /* Brackets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4DB29CCDEC600D61BD4 /* Brackets.swift */; };
+		33AFF4DE29CD872800D61BD4 /* Fish.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4DD29CD872800D61BD4 /* Fish.swift */; };
 		33B2E7D829A3C51D00759849 /* 파일명 정렬.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B2E7D729A3C51D00759849 /* 파일명 정렬.swift */; };
 		33B39B2B289C4C2D0065B484 /* 타겟 넘버.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B39B2A289C4C2D0065B484 /* 타겟 넘버.swift */; };
 		33B3F5B4296474B7000C7D6F /* 두 정수 사이의 합.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B3F5B3296474B7000C7D6F /* 두 정수 사이의 합.swift */; };
@@ -256,6 +259,9 @@
 		33AFF4D229CCBD9F00D61BD4 /* Distinct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Distinct.swift; sourceTree = "<group>"; };
 		33AFF4D429CCBFE500D61BD4 /* MaxProductOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxProductOfThree.swift; sourceTree = "<group>"; };
 		33AFF4D629CCC3FC00D61BD4 /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
+		33AFF4D829CCDC4700D61BD4 /* NumberOfDiscIntersections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfDiscIntersections.swift; sourceTree = "<group>"; };
+		33AFF4DB29CCDEC600D61BD4 /* Brackets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Brackets.swift; sourceTree = "<group>"; };
+		33AFF4DD29CD872800D61BD4 /* Fish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fish.swift; sourceTree = "<group>"; };
 		33B2E7D729A3C51D00759849 /* 파일명 정렬.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "파일명 정렬.swift"; sourceTree = "<group>"; };
 		33B39B2A289C4C2D0065B484 /* 타겟 넘버.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "타겟 넘버.swift"; sourceTree = "<group>"; };
 		33B3F5B3296474B7000C7D6F /* 두 정수 사이의 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두 정수 사이의 합.swift"; sourceTree = "<group>"; };
@@ -386,6 +392,7 @@
 		3399269029CA1B4500C998C2 /* Codility */ = {
 			isa = PBXGroup;
 			children = (
+				33AFF4DA29CCDEB900D61BD4 /* Stacks and Queues */,
 				33AFF4D129CCBD9700D61BD4 /* Sorting */,
 				3359058129CB6D92009BD501 /* Prefix Sums */,
 				3359057829CAFC9B009BD501 /* Counting Elements */,
@@ -419,8 +426,18 @@
 				33AFF4D229CCBD9F00D61BD4 /* Distinct.swift */,
 				33AFF4D429CCBFE500D61BD4 /* MaxProductOfThree.swift */,
 				33AFF4D629CCC3FC00D61BD4 /* Triangle.swift */,
+				33AFF4D829CCDC4700D61BD4 /* NumberOfDiscIntersections.swift */,
 			);
 			path = Sorting;
+			sourceTree = "<group>";
+		};
+		33AFF4DA29CCDEB900D61BD4 /* Stacks and Queues */ = {
+			isa = PBXGroup;
+			children = (
+				33AFF4DB29CCDEC600D61BD4 /* Brackets.swift */,
+				33AFF4DD29CD872800D61BD4 /* Fish.swift */,
+			);
+			path = "Stacks and Queues";
 			sourceTree = "<group>";
 		};
 		33B54EA629A0872300D2BECF /* Softeer */ = {
@@ -691,6 +708,7 @@
 				334E6FEF28DE344700865FDD /* 신고 결과 받기.swift in Sources */,
 				33DFAE40289814930075DD46 /* 가운데 글자 가져오기.swift in Sources */,
 				33231EC62948A9C60094B6C2 /* 가장 가까운 같은 글자.swift in Sources */,
+				33AFF4DE29CD872800D61BD4 /* Fish.swift in Sources */,
 				3399268F29C9DFB700C998C2 /* 숫자 게임.swift in Sources */,
 				33B3F5C029648752000C7D6F /* 소수 찾기.swift in Sources */,
 				337D092D2994DA6600777D9A /* 땅따먹기.swift in Sources */,
@@ -713,6 +731,7 @@
 				3379B437298A5D0F00F53315 /* 다리를 지나는 트럭.swift in Sources */,
 				3359057529CAE27A009BD501 /* PermMissingElem.swift in Sources */,
 				33BC941729308AAE00B4DB59 /* 귤 고르기.swift in Sources */,
+				33AFF4DC29CCDEC600D61BD4 /* Brackets.swift in Sources */,
 				3341499A2897EA4D008BB719 /* otherSolve.swift in Sources */,
 				3357F0D6297BCD6D008D6C10 /* 최대공약수와 최소공배수.swift in Sources */,
 				3359E10B2983ECA00023A382 /* 무인도 여행.swift in Sources */,
@@ -729,6 +748,7 @@
 				334149982897E948008BB719 /* solve.swift in Sources */,
 				3359E1012982ADE40023A382 /* K번째 수.swift in Sources */,
 				3357F0C429785C20008D6C10 /* 평균 구하기.swift in Sources */,
+				33AFF4D929CCDC4700D61BD4 /* NumberOfDiscIntersections.swift in Sources */,
 				33AFF4D729CCC3FC00D61BD4 /* Triangle.swift in Sources */,
 				3357F0C229785B13008D6C10 /* 짝수와 홀수.swift in Sources */,
 				3359E0FF298285460023A382 /* 3진법 뒤집기.swift in Sources */,
