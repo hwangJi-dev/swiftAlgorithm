@@ -152,6 +152,7 @@
 | [ Triangle ](https://app.codility.com/programmers/lessons/6-sorting/triangle/) | Sorting | Easy | [🔢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Sorting/Triangle.swift) | [ 💬 #144 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/144) | `2023.03.24` |
 | [ Brakets ](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/) | Stacks and Queues | Easy | [🚦🚥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Stacks%20and%20Queues/Brackets.swift) | [ 💬 #146 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/146) | `2023.03.24` |
 | [ Fish ](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/) | Stacks and Queues | Easy | [🚦🚥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Stacks%20and%20Queues/Fish.swift) | [ 💬 #147 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/147) | `2023.03.24` |
+| [ Nesting ](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) | Stacks and Queues | Easy | [🚦🚥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Stacks%20and%20Queues/Nesting.swift) | [ 💬 #148 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/148) | `2023.03.24` |
 
 
 <br>
