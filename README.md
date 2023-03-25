@@ -156,6 +156,8 @@
 | [ StoneWall ](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) | Stacks and Queues | Easy | [🚦🚥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Stacks%20and%20Queues/StoneWall.swift) | [ 💬 #149 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/149) | `2023.03.24` |
 | [ MaxNonoverlappingSegments ](https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/) | Greedy Algorithms | Easy | [🤩](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Greedy%20Algorithms/MaxNonoverlappingSegments.swift) | [ 💬 #150 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/150) | `2023.03.25` |
 | [ TieRopes ](https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_ropes/) | Greedy Algorithms | Easy | [🤩](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Greedy%20Algorithms/TieRopes.swift) | [ 💬 #151 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/151) | `2023.03.25` |
+| [ MinMaxDivision ](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/) | Binary Search Algorithms | Medium | [🪧](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Binary%20search%20algorithm/MinMaxDivision.swift) | [ 💬 #152 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/152) | `2023.03.25` |
+
 
 <br>
 
