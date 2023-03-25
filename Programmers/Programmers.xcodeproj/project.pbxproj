@@ -118,6 +118,7 @@
 		33AFF4EC29CEF88500D61BD4 /* NailingPlanks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4EB29CEF88500D61BD4 /* NailingPlanks.swift */; };
 		33AFF4EF29CF1D0200D61BD4 /* LongestPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4EE29CF1D0200D61BD4 /* LongestPassword.swift */; };
 		33AFF4F129CF264800D61BD4 /* FloodDepth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4F029CF264800D61BD4 /* FloodDepth.swift */; };
+		33AFF4F329CF443100D61BD4 /* TennisTournament.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4F229CF443100D61BD4 /* TennisTournament.swift */; };
 		33B2E7D829A3C51D00759849 /* 파일명 정렬.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B2E7D729A3C51D00759849 /* 파일명 정렬.swift */; };
 		33B39B2B289C4C2D0065B484 /* 타겟 넘버.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B39B2A289C4C2D0065B484 /* 타겟 넘버.swift */; };
 		33B3F5B4296474B7000C7D6F /* 두 정수 사이의 합.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B3F5B3296474B7000C7D6F /* 두 정수 사이의 합.swift */; };
@@ -278,6 +279,7 @@
 		33AFF4EB29CEF88500D61BD4 /* NailingPlanks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NailingPlanks.swift; sourceTree = "<group>"; };
 		33AFF4EE29CF1D0200D61BD4 /* LongestPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPassword.swift; sourceTree = "<group>"; };
 		33AFF4F029CF264800D61BD4 /* FloodDepth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloodDepth.swift; sourceTree = "<group>"; };
+		33AFF4F229CF443100D61BD4 /* TennisTournament.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TennisTournament.swift; sourceTree = "<group>"; };
 		33B2E7D729A3C51D00759849 /* 파일명 정렬.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "파일명 정렬.swift"; sourceTree = "<group>"; };
 		33B39B2A289C4C2D0065B484 /* 타겟 넘버.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "타겟 넘버.swift"; sourceTree = "<group>"; };
 		33B3F5B3296474B7000C7D6F /* 두 정수 사이의 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두 정수 사이의 합.swift"; sourceTree = "<group>"; };
@@ -484,6 +486,7 @@
 			children = (
 				33AFF4EE29CF1D0200D61BD4 /* LongestPassword.swift */,
 				33AFF4F029CF264800D61BD4 /* FloodDepth.swift */,
+				33AFF4F229CF443100D61BD4 /* TennisTournament.swift */,
 			);
 			path = Exercise;
 			sourceTree = "<group>";
@@ -695,6 +698,7 @@
 				334E6FEB28DE126E00865FDD /* 양과 늑대.swift in Sources */,
 				3357F0CE297990F9008D6C10 /* 콜라츠 추측.swift in Sources */,
 				33DFAE42289823800075DD46 /* 서울에서 김서방 찾기.swift in Sources */,
+				33AFF4F329CF443100D61BD4 /* TennisTournament.swift in Sources */,
 				33BB13612984F5F5000E8CE5 /* n진수 게임.swift in Sources */,
 				33AFF4D029CC525100D61BD4 /* MinAvgTwoSlice.swift in Sources */,
 				33AFF4EA29CEE3F700D61BD4 /* MinMaxDivision.swift in Sources */,
