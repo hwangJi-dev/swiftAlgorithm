@@ -159,7 +159,7 @@
 | [ MinMaxDivision ](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/) | Binary Search | Medium | [🪧](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Binary%20search%20algorithm/MinMaxDivision.swift) | [ 💬 #152 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/152) | `2023.03.25` |
 | [ LongestPassword ](https://app.codility.com/programmers/trainings/1/longest_password/) | Exercise | Easy | [🏋🏻](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Exercise/LongestPassword.swift) | [ 💬 #154 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/154) | `2023.03.25` |
 | [ FloodDepth ](https://app.codility.com/programmers/trainings/1/flood_depth/) | Exercise | Easy | [🏋🏻](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Exercise/FloodDepth.swift) | [ 💬 #155 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/155) | `2023.03.25` |
-| [ TennisTournament ](https://app.codility.com/programmers/trainings/1/tennis_tournament/) | Exercise | Elementary | [🏋🏻](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Exercise/TennisTournament.swift) | [ 💬 #156 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/156) | `2023.03.26` |
+| [ TennisTournament ](https://app.codility.com/programmers/trainings/3/tennis_tournament/) | Exercise | Elementary | [🏋🏻](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Exercise/TennisTournament.swift) | [ 💬 #156 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/156) | `2023.03.26` |
 
 <br>
 
