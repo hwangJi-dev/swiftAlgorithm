@@ -7,8 +7,8 @@
 
 import Foundation
 if #available(macOS 13.0, *) {
-    var s = "test 5 a0A pass007 ?xy1"
-    print(solution2(S: &s))
+    var a = [1, 3, 2, 1, 2, 1, 5, 3, 3, 4, 1, 7]
+    print(solution(A: &a))
 } else {
     // Fallback on earlier versions
 }
