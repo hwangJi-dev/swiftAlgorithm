@@ -160,6 +160,9 @@
 | [ LongestPassword ](https://app.codility.com/programmers/trainings/1/longest_password/) | Exercise | Easy | [🏋🏻](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Exercise/LongestPassword.swift) | [ 💬 #154 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/154) | `2023.03.25` |
 | [ FloodDepth ](https://app.codility.com/programmers/trainings/1/flood_depth/) | Exercise | Easy | [🏋🏻](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Exercise/FloodDepth.swift) | [ 💬 #155 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/155) | `2023.03.25` |
 | [ TennisTournament ](https://app.codility.com/programmers/trainings/3/tennis_tournament/) | Exercise | Elementary | [🏋🏻](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Exercise/TennisTournament.swift) | [ 💬 #156 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/156) | `2023.03.26` |
+| [ FirstUnique ](https://app.codility.com/programmers/trainings/4/first_unique/) | Exercise | Easy | [🏋🏻](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Exercise/FirstUnique.swift) | [ 💬 #157 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/157) | `2023.03.26` |
+| [ ParkingBill ](https://app.codility.com/programmers/trainings/5/parking_bill/) | Exercise | Elementary | [🏋🏻](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Exercise/ParkingBill.swift) | [ 💬 #158 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/158) | `2023.03.26` |
+| [ ParityDegree ](https://app.codility.com/programmers/trainings/5/parity_degree/) | Exercise | Easy | [🏋🏻](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Codility/Exercise/ParityDegree.swift) | [ 💬 #159 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/159) | `2023.03.26` |
 
 <br>
 
