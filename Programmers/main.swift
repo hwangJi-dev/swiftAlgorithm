@@ -7,8 +7,8 @@
 
 import Foundation
 if #available(macOS 13.0, *) {
-    var a: [Int] = []
-    print(solution5(A: &a))
+    var s = "racecar"
+    print(solution(&s))
 } else {
     // Fallback on earlier versions
 }
