@@ -7,7 +7,7 @@
 
 import Foundation
 if #available(macOS 13.0, *) {    
-    print(solution(expression: "50*6-3*2"))
+    print(solution(places: [["POOOP", "OXXOX", "OPXPX", "OOXOX", "POXXP"], ["POOPX", "OXPXP", "PXXXO", "OXXXO", "OOOPP"], ["PXOPX", "OXOXP", "OXPOX", "OXXOP", "PXPOX"], ["OOOXX", "XOOOX", "OOOXX", "OXOOX", "OOOOO"], ["PXPXP", "XPXPX", "PXPXP", "XPXPX", "PXPXP"]]))
 } else {
     // Fallback on earlier versions
 }
