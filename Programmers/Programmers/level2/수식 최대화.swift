@@ -10,11 +10,8 @@ import Foundation
 func solution(expression:String) -> Int64 {
     let numArr = expression.split(whereSeparator: { $0 == "+" || $0 == "*" || $0 == "-" }).map({ Int($0)! })
     let operArr = expression.split(whereSeparator: { $0.isNumber }).map({ String($0) })
+    let formulaPermutation = permutation(Array(Set(operArr)), Set(operArr).count)
     var maxValue = 0
-    let setOperArr = Array(Set(operArr))
-    
-    // priority 구하기
-    let formulaPermutation = permutation(setOperArr, setOperArr.count)
     
     for i in formulaPermutation {
         maxValue = max(maxValue, calbyFormula(i, operArr, numArr))

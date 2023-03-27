@@ -124,9 +124,6 @@
 		33AFF4F929CF519B00D61BD4 /* ThreeLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4F829CF519B00D61BD4 /* ThreeLetters.swift */; };
 		33AFF4FB29D015A800D61BD4 /* FirstUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4FA29D015A800D61BD4 /* FirstUnique.swift */; };
 		33AFF4FD29D01C1F00D61BD4 /* SrtSymmetryPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4FC29D01C1F00D61BD4 /* SrtSymmetryPoint.swift */; };
-		33AFF50029D024A200D61BD4 /* solve1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF4FF29D024A200D61BD4 /* solve1.swift */; };
-		33AFF50229D024A800D61BD4 /* solve2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF50129D024A800D61BD4 /* solve2.swift */; };
-		33AFF50429D024AF00D61BD4 /* solve3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF50329D024AF00D61BD4 /* solve3.swift */; };
 		33AFF50629D180A800D61BD4 /* 수식 최대화.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AFF50529D180A800D61BD4 /* 수식 최대화.swift */; };
 		33B2E7D829A3C51D00759849 /* 파일명 정렬.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B2E7D729A3C51D00759849 /* 파일명 정렬.swift */; };
 		33B39B2B289C4C2D0065B484 /* 타겟 넘버.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B39B2A289C4C2D0065B484 /* 타겟 넘버.swift */; };
@@ -294,9 +291,6 @@
 		33AFF4F829CF519B00D61BD4 /* ThreeLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeLetters.swift; sourceTree = "<group>"; };
 		33AFF4FA29D015A800D61BD4 /* FirstUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUnique.swift; sourceTree = "<group>"; };
 		33AFF4FC29D01C1F00D61BD4 /* SrtSymmetryPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SrtSymmetryPoint.swift; sourceTree = "<group>"; };
-		33AFF4FF29D024A200D61BD4 /* solve1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = solve1.swift; sourceTree = "<group>"; };
-		33AFF50129D024A800D61BD4 /* solve2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = solve2.swift; sourceTree = "<group>"; };
-		33AFF50329D024AF00D61BD4 /* solve3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = solve3.swift; sourceTree = "<group>"; };
 		33AFF50529D180A800D61BD4 /* 수식 최대화.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "수식 최대화.swift"; sourceTree = "<group>"; };
 		33B2E7D729A3C51D00759849 /* 파일명 정렬.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "파일명 정렬.swift"; sourceTree = "<group>"; };
 		33B39B2A289C4C2D0065B484 /* 타겟 넘버.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "타겟 넘버.swift"; sourceTree = "<group>"; };
@@ -352,6 +346,7 @@
 				33B54EA629A0872300D2BECF /* Softeer */,
 				3341498E2897E853008BB719 /* Programmers */,
 				3341498D2897E853008BB719 /* Products */,
+				33AFF51129D1993800D61BD4 /* Recovered References */,
 			);
 			sourceTree = "<group>";
 		};
@@ -512,6 +507,13 @@
 				33AFF4FC29D01C1F00D61BD4 /* SrtSymmetryPoint.swift */,
 			);
 			path = Exercise;
+			sourceTree = "<group>";
+		};
+		33AFF51129D1993800D61BD4 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Recovered References";
 			sourceTree = "<group>";
 		};
 		33B54EA629A0872300D2BECF /* Softeer */ = {
@@ -806,7 +808,6 @@
 				333166DB296D942F00AF717B /* 푸드 파이트 대회.swift in Sources */,
 				336260F229B4A1FF00B6CF9D /* 바탕화면 정리.swift in Sources */,
 				3379B43D298D13BC00F53315 /* 둘만의 암호.swift in Sources */,
-				33AFF50029D024A200D61BD4 /* solve1.swift in Sources */,
 				33AFF4EF29CF1D0200D61BD4 /* LongestPassword.swift in Sources */,
 				33B3F5C82965EA30000C7D6F /* 시저 암호.swift in Sources */,
 				3359E0FD298276D10023A382 /* 약수의 개수와 덧셈.swift in Sources */,
@@ -836,7 +837,6 @@
 				3359057329CADE2A009BD501 /* FrogJmp.swift in Sources */,
 				33E9C7202970349100479C1B /* 옹알이(2).swift in Sources */,
 				334149982897E948008BB719 /* solve.swift in Sources */,
-				33AFF50429D024AF00D61BD4 /* solve3.swift in Sources */,
 				33AFF4E729CE102000D61BD4 /* TieRopes.swift in Sources */,
 				3359E1012982ADE40023A382 /* K번째 수.swift in Sources */,
 				3357F0C429785C20008D6C10 /* 평균 구하기.swift in Sources */,
