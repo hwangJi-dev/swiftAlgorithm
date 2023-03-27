@@ -126,6 +126,7 @@
 | [ 두 큐 합 같게 만들기 ](https://school.programmers.co.kr/learn/courses/30/lessons/118667#) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EB%91%90%20%ED%81%90%20%ED%95%A9%20%EA%B0%99%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) | [ 💬 #12 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/12) | `2023.03.20` |
 | [ 택배 배달과 수거하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%83%9D%EB%B0%B0%20%EB%B0%B0%EB%8B%AC%EA%B3%BC%20%EC%88%98%EA%B1%B0%ED%95%98%EA%B8%B0.swift) | [ 💬 #123 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/123) | `2023.03.21` |
 | [ 숫자게임 ](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.swift) | [ 💬 #125 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/125) | `2023.03.21` |
+| [ 수식 최대화 ](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.swift) | [ 💬 #161 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/161) | `2023.03.27` |
 
 
 <br>
