@@ -128,6 +128,8 @@
 | [ 숫자게임 ](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.swift) | [ 💬 #125 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/125) | `2023.03.21` |
 | [ 수식 최대화 ](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.swift) | [ 💬 #161 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/161) | `2023.03.27` |
 | [ 거리두기 확인하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/81302?language=swift#fn1) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.swift) | [ 💬 #39 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/39) | `2023.03.27` |
+| [ 보석 쇼핑 ](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.swift) | [ 💬 #162 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/162) | `2023.03.28` |
+
 
 <br>
 
