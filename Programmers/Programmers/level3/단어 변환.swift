@@ -11,27 +11,8 @@ var minChangeCnt = 0
 
 func solution(_ begin:String, _ target:String, _ words:[String]) -> Int {
     if !words.contains(target) { return 0 }
-    
-    let words = [begin] + words
-    var changableDict: [String: [String]] = [:]
-    
-    for i in words {
-        let i = String(i)
-        if changableDict[i] == nil {
-            changableDict[i] = []
-        }
-        
-        for j in words {
-            if j == i { continue }
-            
-            if isChangableWord(i, j) {
-                changableDict[i]?.append(j)
-            }
-        }
-    }
-    
-    dfsToFindTargetWord(begin, target, [], changableDict)
-    
+    var visited = Array(repeating: false, count: words.count)
+    dfs(words, begin, target, 0, &visited)
     return minChangeCnt
 }
 
@@ -49,24 +30,17 @@ func isChangableWord(_ word1: String, _ word2: String) -> Bool {
     return diff == 1 ? true : false
 }
 
-func dfsToFindTargetWord(_ start: String, _ target: String, _ visited: [String], _ dict: [String: [String]]) {
-    var visited = visited
-    
-    if start == target {
-        minChangeCnt = minChangeCnt == 0 ? visited.count : min(visited.count, minChangeCnt)
+func dfs(_ words: [String], _ word: String, _ target: String, _ depth: Int, _ visited: inout [Bool]) {
+    if word == target {
+        minChangeCnt = minChangeCnt == 0 ? depth : min(depth, minChangeCnt)
         return
     }
     
-    guard let _ = dict[start] else { return }
-    
-    if dict[start]!.isEmpty {
-        return
-    } else {
-        visited.append(start)
-        for i in dict[start]! {
-            if !visited.contains(i) {
-                dfsToFindTargetWord(i, target, visited, dict)
-            }
+    for (idx, i) in words.enumerated() {
+        if visited[idx] == false && isChangableWord(word, i) {
+            visited[idx] = true
+            dfs(words, i, target, depth + 1, &visited)
+            visited[idx] = false
         }
     }
 }
