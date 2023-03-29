@@ -7,7 +7,9 @@
 
 import Foundation
 if #available(macOS 13.0, *) {    
-    print(solution(gems: ["DIA", "RUBY", "RUBY", "DIA", "DIA", "EMERALD", "SAPPHIRE", "DIA"]))
+    print(solution(n: 4, computers: [[1, 0, 0, 0], [0, 1, 0, 0], [0, 0, 1, 0], [0, 0, 0, 1]]))
+//    print(solution(n: 6, computers: [[1, 1, 1, 0, 0, 0], [1, 1, 0, 0, 0, 0], [1, 0, 1, 1, 1, 0], [0,0,1,1,0,0], [0,0,1,0,1,0], [0,0,0,0,0,1]]))
+//    print(solution(n: 6, computers: [[1, 1, 0, 0, 0, 0], [1, 1, 1, 0, 0, 0], [0, 1, 1, 0, 0, 0], [0,0,0,1,1,0], [0,0,0,1,1,1], [0,0,0,0,1,1]]))
 } else {
     // Fallback on earlier versions
 }
