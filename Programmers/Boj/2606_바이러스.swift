@@ -1,5 +1,5 @@
 //
-//  바이러스.swift
+//  2606_바이러스.swift
 //  Programmers1
 //
 //  Created by hwangJi on 2023/03/30.
