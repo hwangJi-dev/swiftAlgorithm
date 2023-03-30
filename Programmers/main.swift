@@ -7,7 +7,7 @@
 
 import Foundation
 if #available(macOS 13.0, *) {    
-    print(solution("hit", "cog", ["hot", "dot", "dog", "lot", "log", "cog"]))
+    print(solution2(numbers: [4, 1, 2, 1], target: 4))
 } else {
     // Fallback on earlier versions
 }
