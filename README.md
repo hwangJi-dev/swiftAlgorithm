@@ -174,8 +174,9 @@
 <br>
 
 ### 📝 백준 
-| 문제번호 | LEVEL | 풀이 | 정리 | 풀이 일자 |
-|:----------|:----------:|:----:|:----:|:----:|
+|   문제 번호  |   문제이름   |   난이도  | 유형 | 풀이 | 정리 | 풀이 일자 |
+|:----------:|:----------:|:----------:|:----:|:----:|:----:|:----:|
+| [ 2606 ](https://www.acmicpc.net/problem/2606) | [ 바이러스 ](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | BFS/DFS | [😀](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Boj/2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.swift) | [ 💬 #166 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/166) | `2023.03.30` |
 
 
 <br>
