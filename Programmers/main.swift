@@ -7,7 +7,7 @@
 
 import Foundation
 if #available(macOS 13.0, *) {    
-    print(solution(msg: "T"))
+    print(solution2606())
 } else {
     // Fallback on earlier versions
 }
