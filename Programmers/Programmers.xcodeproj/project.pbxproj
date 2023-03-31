@@ -56,6 +56,7 @@
 		3357F0D6297BCD6D008D6C10 /* 최대공약수와 최소공배수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3357F0D5297BCD6D008D6C10 /* 최대공약수와 최소공배수.swift */; };
 		3357F0D8297EBCFB008D6C10 /* 내적.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3357F0D7297EBCFB008D6C10 /* 내적.swift */; };
 		3357F0DA298024B0008D6C10 /* 행렬의 덧셈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3357F0D9298024B0008D6C10 /* 행렬의 덧셈.swift */; };
+		3358D82C29D6C51100370DF0 /* 과제 진행하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3358D82B29D6C51100370DF0 /* 과제 진행하기.swift */; };
 		3359057329CADE2A009BD501 /* FrogJmp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3359057229CADE2A009BD501 /* FrogJmp.swift */; };
 		3359057529CAE27A009BD501 /* PermMissingElem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3359057429CAE27A009BD501 /* PermMissingElem.swift */; };
 		3359057729CAE7A4009BD501 /* TapeEquilibrium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3359057629CAE7A4009BD501 /* TapeEquilibrium.swift */; };
@@ -230,6 +231,7 @@
 		3357F0D5297BCD6D008D6C10 /* 최대공약수와 최소공배수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최대공약수와 최소공배수.swift"; sourceTree = "<group>"; };
 		3357F0D7297EBCFB008D6C10 /* 내적.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "내적.swift"; sourceTree = "<group>"; };
 		3357F0D9298024B0008D6C10 /* 행렬의 덧셈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "행렬의 덧셈.swift"; sourceTree = "<group>"; };
+		3358D82B29D6C51100370DF0 /* 과제 진행하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "과제 진행하기.swift"; sourceTree = "<group>"; };
 		3359057229CADE2A009BD501 /* FrogJmp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrogJmp.swift; sourceTree = "<group>"; };
 		3359057429CAE27A009BD501 /* PermMissingElem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermMissingElem.swift; sourceTree = "<group>"; };
 		3359057629CAE7A4009BD501 /* TapeEquilibrium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapeEquilibrium.swift; sourceTree = "<group>"; };
@@ -673,6 +675,7 @@
 				33AFF51229D19D9000D61BD4 /* 거리두기 확인하기.swift */,
 				3304D50929D57DFA00A88399 /* 타겟 넘버_2.swift */,
 				3304D50B29D5906F00A88399 /* [3차] 압축.swift */,
+				3358D82B29D6C51100370DF0 /* 과제 진행하기.swift */,
 			);
 			path = level2;
 			sourceTree = "<group>";
@@ -886,6 +889,7 @@
 				330D91EA29A63AEE00E297AD /* [1차] 뉴스 클러스터링.swift in Sources */,
 				333166D3296D543800AF717B /* 이상한 문자 만들기.swift in Sources */,
 				3399269829CA2BBB00C998C2 /* OddOccurrencesInArray.swift in Sources */,
+				3358D82C29D6C51100370DF0 /* 과제 진행하기.swift in Sources */,
 				3399268D29C99E7500C998C2 /* 택배 배달과 수거하기.swift in Sources */,
 				330409D029A7A52900B689E7 /* JadenCase 문자열 만들기.swift in Sources */,
 				3357F0D02979970F008D6C10 /* 하샤드 수.swift in Sources */,
