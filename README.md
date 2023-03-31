@@ -140,6 +140,7 @@
 ### 📝 백준 
 |   문제 번호  |   문제이름   |   난이도  | 유형 | 풀이 | 정리 | 풀이 일자 |
 |:----------:|:----------:|:----------:|:----:|:----:|:----:|:----:|
+| [ 1260 ](https://www.acmicpc.net/problem/1260) | [ DFS와 BFS ](https://www.acmicpc.net/problem/1260) | <img height="25px" width="25px" src="https://camo.githubusercontent.com/e89e2c34907a70e2de81836b1d798391d56768998c197adccdb9ee1a71f75b9e/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f392e737667"/> | BFS/DFS | [😀](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Boj/1260_DFS%EC%99%80%20BFS.swift) | [ 💬 #168 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/168) | `2023.03.31` |
 | [ 2606 ](https://www.acmicpc.net/problem/2606) | [ 바이러스 ](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | BFS/DFS | [😀](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Boj/2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.swift) | [ 💬 #166 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/166) | `2023.03.30` |
 
 <br>
