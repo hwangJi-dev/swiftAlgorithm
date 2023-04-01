@@ -6,4 +6,5 @@
 //
 
 import Foundation
-print(solution11725())
+print(solution(progresses: [1, 2], speeds: [1, 1]))
+print(solution(progresses: [95, 90, 99, 99, 80, 79]    , speeds: [1, 1, 1, 1, 1, 1]    ))
