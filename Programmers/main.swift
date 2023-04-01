@@ -6,4 +6,4 @@
 //
 
 import Foundation
-print(solution1325())
+print(solution2178())
