@@ -11,11 +11,9 @@ func solution(name:String) -> Int {
     let abcDict: [String: Int] = ["B": 1, "C": 2, "D": 3, "E": 4, "F": 5, "G": 6, "H": 7, "I": 8, "J": 9, "K": 10, "L": 11, "M": 12, "N": 13, "O": 12, "P": 11, "Q": 10, "R": 9, "S": 8, "T": 7, "U": 6, "V": 5, "W": 4, "X": 3, "Y": 2, "Z": 1]
     let name = name.map({ String($0) })
     var initialName = Array(repeating: "A", count: name.count)
-    var ans = 0
     var res = Int.max
     
     if name[0] != "A" {
-        ans += abcDict[name[0]]!
         initialName[0] = name[0]
     }
     
@@ -43,8 +41,8 @@ func solution(name:String) -> Int {
         dfs(leftName, leftCount, left[0])
     }
     
-    dfs(initialName, ans, 0)
-    return res
+    dfs(initialName, 0, 0)
+    return name[0] != "A" ? res + abcDict[name[0]]! : res
 }
 
 func joystickMovesLeftorRight(_ isRight: Bool, _ cursor: Int, _ name: [String], _ initialName: [String]) -> [Int] {
