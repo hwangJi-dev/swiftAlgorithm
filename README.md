@@ -136,8 +136,8 @@
 | [ 과제 진행하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EA%B3%BC%EC%A0%9C%20%EC%A7%84%ED%96%89%ED%95%98%EA%B8%B0.swift) | [ 💬 #167 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/167)| `2023.03.31` |
 | [ 기능개발 ](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.swift) | [ 💬 #170 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/170)| `2023.04.01` |
 | [ 프린터 ](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%94%84%EB%A6%B0%ED%84%B0.swift) | [ 💬 #171 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/171)| `2023.04.01` |
-| [ 불량 사용자 ](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.swift) | [ 💬 #171 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/173)| `2023.04.03` |
-
+| [ 불량 사용자 ](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.swift) | [ 💬 #179 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/179)| `2023.04.03` |
+| [ 조이스틱 ](https://school.programmers.co.kr/learn/courses/30/lessons/42860#) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.swift) | [ 💬 #180 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/180)| `2023.04.04` |
 
 <br>
 
