@@ -6,4 +6,4 @@
 //
 
 import Foundation
-print(solution2(n: 6))
+print(solution(order: [4, 3, 2, 1, 5]))
