@@ -10,8 +10,8 @@ import Foundation
 func solution2(n:Int) -> [Int] {
     var n = n
     var triangleIdx = 1
-    var triangleFilledCnt = 1
-    var number = 1
+    var triangleFilledCnt = 0 // 삼각형에 채워지는 숫자 개수
+    var number = 0 // 계속 오르는 숫자
     var y = -1 // y 좌표
     var ansArr: [[Int]] = []
     
@@ -20,14 +20,17 @@ func solution2(n:Int) -> [Int] {
     }
     
     while n > 0 {
+        number += 1
+        triangleFilledCnt += 1
+        
         switch triangleIdx % 3 {
-        case 0:
+        case 0: // 하강하면서 채워짐
             y -= 1
             ansArr[y][ansArr[y].lastIndex(of: 0) ?? 0] = number
-        case 1:
+        case 1: // 상승하면서 채워짐
             y += 1
             ansArr[y][ansArr[y].firstIndex(of: 0) ?? 0] = number
-        default:
+        default: // 가장 밑단만 채워짐
             ansArr[y][ansArr[y].firstIndex(of: 0) ?? 0] = number
         }
          
@@ -37,9 +40,6 @@ func solution2(n:Int) -> [Int] {
             triangleIdx += 1 // 삼각형 index + 1
             triangleFilledCnt = 0
         }
-        
-        number += 1
-        triangleFilledCnt += 1
     }
     
     return ansArr.flatMap({ $0 })
