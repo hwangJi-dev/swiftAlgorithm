@@ -6,9 +6,4 @@
 //
 
 import Foundation
-//print(solution(name: "JEROEN"))
-//print(solution(name: "JAN"))
-//print(solution(name: "ZZAAAZZ"))
-//print(solution(name: "BBBBAAAABA"))
-//print(solution(name: "AAB"))
-print(solution(name: "JAANAAAAN"))
+print(solution2(n: 6))
