@@ -6,4 +6,9 @@
 //
 
 import Foundation
-print(solution(user_id: ["frodo", "fradi", "crodo", "abc123", "frodoc"], banned_id:     ["*rodo", "*rodo", "******"]))
+//print(solution(name: "JEROEN"))
+//print(solution(name: "JAN"))
+//print(solution(name: "ZZAAAZZ"))
+//print(solution(name: "BBBBAAAABA"))
+//print(solution(name: "AAB"))
+print(solution(name: "JAANAAAAN"))
