@@ -6,4 +6,5 @@
 //
 
 import Foundation
-print(solution(board: [[0,1,1,1],[1,1,1,1],[1,1,1,1],[0,0,1,0]]))
+
+print(solution1463())
