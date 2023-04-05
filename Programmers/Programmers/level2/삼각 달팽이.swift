@@ -9,7 +9,7 @@ import Foundation
 
 func solution2(n:Int) -> [Int] {
     var n = n
-    var triangleIdx = 1
+    var trianglePoint = 1
     var triangleFilledCnt = 0 // 삼각형에 채워지는 숫자 개수
     var number = 0 // 계속 오르는 숫자
     var y = -1 // y 좌표
@@ -23,7 +23,7 @@ func solution2(n:Int) -> [Int] {
         number += 1
         triangleFilledCnt += 1
         
-        switch triangleIdx % 3 {
+        switch trianglePoint % 3 {
         case 0: // 하강하면서 채워짐
             y -= 1
             ansArr[y][ansArr[y].lastIndex(of: 0) ?? 0] = number
@@ -37,7 +37,7 @@ func solution2(n:Int) -> [Int] {
         // 기점: 4 / 3 / 2 / 1
         if triangleFilledCnt == n {
             n -= 1 // 기준 숫자 - 1
-            triangleIdx += 1 // 삼각형 index + 1
+            trianglePoint += 1 // 삼각형 index + 1
             triangleFilledCnt = 0
         }
     }
