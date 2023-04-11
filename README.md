@@ -143,6 +143,7 @@
 | [ 가장 큰 정사각형 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.swift) | [ 💬 #184 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/184)| `2023.04.04` |
 | [ 추억 점수 ](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.swift) | [ 💬 #191 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/191)| `2023.04.07` |
 | [ N으로 표현 ](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.swift) | [ 💬 #196 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/196)| `2023.04.11` |
+| [ [1차] 셔틀버스 ](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | Level3 | [🔥](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | [ 💬 #194 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/194)| `2023.04.11` |
 
 <br>
 
