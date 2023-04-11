@@ -141,6 +141,7 @@
 | [ 삼각 달팽이 ](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.swift) | [ 💬 #182 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/182)| `2023.04.04` |
 | [ 택배상자 ](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.swift) | [ 💬 #183 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/183)| `2023.04.04` |
 | [ 가장 큰 정사각형 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.swift) | [ 💬 #184 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/184)| `2023.04.04` |
+| [ 추억 점수 ](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level1/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.swift) | [ 💬 #191 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/191)| `2023.04.07` |
 
 
 <br>
