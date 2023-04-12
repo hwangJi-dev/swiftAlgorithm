@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution(jobs: [[0, 3], [1, 9], [2, 6]]))
+print(solution(genres: ["classic", "pop", "classic", "classic", "pop"]    , plays: [500, 600, 150, 800, 2500]    ))
