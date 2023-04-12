@@ -145,7 +145,7 @@
 | [ N으로 표현 ](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.swift) | [ 💬 #196 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/196)| `2023.04.11` |
 | [ [1차] 셔틀버스 ](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.swift) | [ 💬 #194 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/194)| `2023.04.11` |
 | [ 디스크 컨트롤러 ](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.swift) | [ 💬 #195 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/195)| `2023.04.11` |
-
+| [ 베스트앨범 ](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.swift) | [ 💬 #197 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/197)| `2023.04.12` |
 
 <br>
 
