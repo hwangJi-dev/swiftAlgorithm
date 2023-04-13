@@ -147,6 +147,7 @@
 | [ 디스크 컨트롤러 ](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.swift) | [ 💬 #195 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/195)| `2023.04.11` |
 | [ 베스트앨범 ](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.swift) | [ 💬 #197 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/197)| `2023.04.12` |
 | [ 가장 큰 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.swift) | [ 💬 #198 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/198)| `2023.04.13` |
+| [ H-Index ](https://school.programmers.co.kr/learn/courses/30/lessons/42747#fn1) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/H-Index.swift) | [ 💬 #199 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/199)| `2023.04.13` |
 
 <br>
 
