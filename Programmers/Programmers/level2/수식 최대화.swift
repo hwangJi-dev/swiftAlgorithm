@@ -59,9 +59,7 @@ func permutation(_ array: [String], _ n: Int) -> Set<[String]> {
         }
 
         for i in 0..<array.count {
-            if visited[i] {
-                continue
-            } else {
+            if !visited[i] {
                 visited[i] = true
                 cycle(now + [array[i]])
                 visited[i] = false
