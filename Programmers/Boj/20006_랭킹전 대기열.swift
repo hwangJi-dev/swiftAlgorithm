@@ -1,5 +1,5 @@
 //
-//  200006_랭킹전 대기열.swift
+//  20006_랭킹전 대기열.swift
 //  Programmers1
 //
 //  Created by hwangJi on 2023/04/20.
@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution200006() {
+func solution20006() {
     let pm = readLine()!.split(separator: " ").map({ Int(String($0))! })
     var roomArr: [(Int, Int)] = []
     var roomInfo: [Int: [(Int, String)]] = [:]
