@@ -13,4 +13,8 @@ import Foundation
 //print(solution2(tickets: [["ICN", "JFK"], ["HND", "IAD"], ["JFK", "HND"]]    ))
 //print(solution2(tickets:[["ICN", "BOO"], ["ICN", "COO"], ["COO", "DOO"], ["DOO", "COO"], ["BOO", "DOO"], ["DOO", "BOO"], ["BOO", "ICN"], ["COO", "BOO"]]))
 //print(solution2(tickets:[["ICN", "SFO"], ["ICN", "ATL"], ["SFO", "ATL"], ["ATL", "ICN"], ["ATL", "SFO"]]))
-print(solution20006())
+if #available(macOS 13.0, *) {
+    print(solution5430())
+} else {
+    // Fallback on earlier versions
+}
