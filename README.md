@@ -159,6 +159,7 @@
 | [ 가격이 제일 비싼 식품의 정보 출력하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | Level2 | 🎢 | [ 💬 #219 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/219)| `2023.04.27` | **SQL**(MAX) |
 | [ 최솟값 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/59038) | Level2 | 🎢 | [ 💬 #220 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/220)| `2023.04.27` | **SQL**(MIN) |
 | [ 동물 수 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/59406) | Level2 | 🎢 | [ 💬 #221 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/221)| `2023.04.27` | **SQL**(COUNT) |
+| [ 중복 제거하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/59408) | Level2 | 🎢 | [ 💬 #222 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/222)| `2023.04.27` | **SQL**(DISTINCT) |
 
 <br>
 
