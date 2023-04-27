@@ -10,8 +10,8 @@
 <br>
 
 ### 📝 Programmers 
-| 문제 | LEVEL | 풀이 | 정리 | 풀이 일자 |
-|:----------|:----------:|:----:|:----:|:----:|
+| 문제 | LEVEL | 풀이 | 정리 | 풀이 일자 | 유형 |
+|:----------|:----------:|:----:|:----:|:----:|:----:|
 | [ 없는 숫자 더하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/ProgrammersLevel1/ProgrammersLevel1/7-NoneNumberPlus/solve.swift) | [ 💬 #4 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/4)|
 | [ 신규 아이디 추천 ](https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=swift) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/ProgrammersLevel1/ProgrammersLevel1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.swift) | [ 💬 #5 ](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/stringPractice/stringPractice/main.swift) |
 | [ 키패드 누르기 ](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | Level1 | [🍉](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/ProgrammersLevel1/ProgrammersLevel1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.swift) | [ 💬 #6 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/6) |
@@ -153,7 +153,9 @@
 | [ 연속된 부분 수열의 합 ](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%EC%97%B0%EC%86%8D%EB%90%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.swift) | [ 💬 #203 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/203)| `2023.04.18` |
 | [ 여행경로 ](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C2.swift) | [ 💬 #205 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/205)| `2023.04.25` |
 | [ 순위 ](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | Level3 | [🔥]( https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EC%88%9C%EC%9C%84.swift) | [ 💬 #204 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/204)| `2023.04.25` |
-| [ 3월에 태어난 여성 회원 목록 출력하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/131120) | Level2 | SQL | [ 💬 #216 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/216)| `2023.04.27` |
+| [ 3월에 태어난 여성 회원 목록 출력하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/131120) | Level2 | 🎢 | [ 💬 #216 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/216)| `2023.04.27` | SQL |
+| [ 서울에 위치한 식당 목록 출력하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/131118) | Level4 | 💫 | [ 💬 #217 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/217)| `2023.04.27` | SQL |
+
 
 <br>
 
