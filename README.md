@@ -157,7 +157,7 @@
 | [ 서울에 위치한 식당 목록 출력하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/131118) | Level4 | 💫 | [ 💬 #217 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/217)| `2023.04.27` | SQL(SELECT) |
 | [ 재구매가 일어난 상품과 회원 리스트 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/131536) | Level2 | 🎢 | [ 💬 #218 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/218)| `2023.04.27` | SQL(SELECT) |
 | [ 가격이 제일 비싼 식품의 정보 출력하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | Level2 | 🎢 | [ 💬 #219 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/219)| `2023.04.27` | SQL(MAX) |
-
+| [ 최솟값 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/59038) | Level2 | 🎢 | [ 💬 #220 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/220)| `2023.04.27` | SQL(MIN) |
 
 <br>
 
