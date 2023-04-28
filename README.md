@@ -173,7 +173,7 @@
 | [ 저자 별 카테고리 별 매출액 집계하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/144856) | Level4 | 💫 | [ 💬 #227 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/227)| `2023.04.29` | GROUP BY |
 | [ 경기도에 위치한 식품창고 목록 출력하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | Level1 | 🍉 | [ 💬 #228 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/228)| `2023.04.29` | IS NULL |
 | [ NULL 처리하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | Level2 | 🎢 | [ 💬 #229 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/229)| `2023.04.29` | IS NULL |
-
+| [ 5월 식품들의 총매출 조회하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/131117) | Level4 | 💫 | [ 💬 #230 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/230)| `2023.04.29` | JOIN |
 
 <br>
 
