@@ -169,6 +169,9 @@
 | [ 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/157340) | Level3 | 🔥 | [ 💬 #223 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/223)| `2023.04.28` | GROUP BY |
 | [ 카테고리 별 도서 판매량 집계하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | Level3 | 🔥 | [ 💬 #224 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/224)| `2023.04.28` | GROUP BY |
 | [ 조건에 맞는 사용자와 총 거래금액 조회하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/164668) | Level3 | 🔥 | [ 💬 #225 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/225)| `2023.04.28` | GROUP BY |
+| [ 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/151139) | Level3 | 🔥 | [ 💬 #226 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/226)| `2023.04.28` | GROUP BY |
+
+
 
 <br>
 
