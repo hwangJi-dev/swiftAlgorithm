@@ -172,6 +172,7 @@
 | [ 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/151139) | Level3 | 🔥 | [ 💬 #226 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/226)| `2023.04.28` | GROUP BY |
 | [ 저자 별 카테고리 별 매출액 집계하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/144856) | Level4 | 💫 | [ 💬 #227 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/227)| `2023.04.29` | GROUP BY |
 | [ 경기도에 위치한 식품창고 목록 출력하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | Level1 | 🍉 | [ 💬 #228 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/228)| `2023.04.29` | IS NULL |
+| [ NULL 처리하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | Level2 | 🎢 | [ 💬 #229 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/229)| `2023.04.29` | IS NULL |
 
 
 <br>
