@@ -167,6 +167,7 @@
 | [ 동물 수 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/59406) | Level2 | 🎢 | [ 💬 #221 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/221)| `2023.04.27` | COUNT |
 | [ 중복 제거하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/59408) | Level2 | 🎢 | [ 💬 #222 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/222)| `2023.04.27` | DISTINCT |
 | [ 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/157340) | Level3 | 🔥 | [ 💬 #223 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/223)| `2023.04.28` | GROUP BY |
+| [ 카테고리 별 도서 판매량 집계하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | Level3 | 🔥 | [ 💬 #224 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/224)| `2023.04.28` | GROUP BY |
 
 <br>
 
