@@ -154,6 +154,7 @@
 | [ 여행경로 ](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C2.swift) | [ 💬 #205 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/205)| `2023.04.25` |
 | [ 순위 ](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | Level3 | [🔥]( https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EC%88%9C%EC%9C%84.swift) | [ 💬 #204 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/204)| `2023.04.25` |
 | [ 혼자 놀기의 달인 ](https://school.programmers.co.kr/learn/courses/30/lessons/131130?language=swift) | Level2 | [🎢](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level2/%ED%98%BC%EC%9E%90%20%EB%86%80%EA%B8%B0%EC%9D%98%20%EB%8B%AC%EC%9D%B8.swift) | [ 💬 #231 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/231)| `2023.05.02` | 구현 |
+| [ 가장 긴 펠린드롬 ](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | Level3 | [🔥](https://github.com/hwangJi-dev/swiftAlgorithm/blob/main/Programmers/Programmers/level3/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8E%A0%EB%A6%B0%EB%93%9C%EB%A1%AC.swift) | [ 💬 #232 ](https://github.com/hwangJi-dev/swiftAlgorithm/issues/232)| `2023.05.02` | 구현 |
 
 <br>
 
